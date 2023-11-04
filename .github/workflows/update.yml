@@ -13,13 +13,10 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: pwd
-      - run: ls -al
-      - run: cd scraper
-      - run: pwd
-      - run: ls -al
-      - run: npm ci
-      - run: npm start
+      - run: |
+          cd scraper
+          npm ci
+          npm start
       - uses: actions/upload-artifact@v3
         with:
           name: css
