@@ -38,6 +38,7 @@ jobs:
       - name: dump
         working-directory: dumper
         run: |
+          ls -al ../css
           npm start
       - uses: actions/upload-artifact@v3
         with:
