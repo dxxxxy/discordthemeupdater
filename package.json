@@ -1,0 +1,10 @@
+{
+  "name": "discordthemeupdater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "dxxxxy",
+  "license": "GPL-3.0",
+  "bin": "./index.js"
+}
