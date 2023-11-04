@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: cd scraper
+#      - run: cd scraper
       - run: pwd
       - run: ls -al
       - run: npm ci
