@@ -19,11 +19,14 @@ let content = fs.readFileSync(inputPath, "utf8")
 const dump = fs.readFileSync(path.join(__dirname, "/dump/dump.txt"), "utf8").split("\n")
 
 //update theme
-dump.forEach(c => {
-    //check if content includes class without offset
-    if (content.includes(c.split("_")[0])) {
-        //replace whole class name
-        content = content.replace(new RegExp(`(\.${c.split("_")[0]}_\w*)`, "g"), `.${c}`)
+dump.forEach(c => { //appMount_fae9dd
+    //get base
+    const base = c.split("_")[0] //appMount
+
+    //check if content includes base
+    if (content.includes(`.${base}`)) {
+        //replace class
+        content = content.replace(new RegExp(`(\\.${base}(_|-\\d|__)\\w+)`, "g"), `.${c}`)
     }
 })
 
