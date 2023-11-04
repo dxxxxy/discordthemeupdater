@@ -12,6 +12,12 @@ if (!fs.existsSync(inputPath)) {
     process.exit(1)
 }
 
+//check if output path is provided
+if (!outputPath) {
+    console.error("Output path not provided")
+    process.exit(1)
+}
+
 //get file content
 let content = fs.readFileSync(inputPath, "utf8")
 
