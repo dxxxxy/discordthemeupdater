@@ -20,7 +20,10 @@ while ((match = classRegex.exec(css)) !== null) {
 }
 
 //keep only css-loader classes
-classes = classes.filter((c) => c.includes("_") || c.includes("__"))
+classes = classes.filter(c => c.includes("_") || c.includes("__"))
+
+//ignore react classes
+classes = classes.filter(c => !c.startsWith("react-"))
 
 //keep only unique classes
 classes = [...new Set(classes)]
