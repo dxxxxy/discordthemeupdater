@@ -18,6 +18,7 @@ jobs:
           node-version: '18'
       - run: cd scraper
       - run: pwd
+      - run: ls -al
       - run: npm ci
       - run: npm start
       - uses: actions/upload-artifact@v3
