@@ -13,14 +13,15 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: |
-          cd scraper
+      - name: scrape
+        working-directory: scraper
+        run: |
           npm ci
           npm start
       - uses: actions/upload-artifact@v3
         with:
           name: css
-          path: ../css
+          path: css
 
   dump:
     runs-on: ubuntu-latest
@@ -34,13 +35,14 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: cd scraper
-      - run: npm ci
-      - run: npm start
+      - name: dump
+        working-directory: dumper
+        run: |
+          npm start
       - uses: actions/upload-artifact@v3
         with:
           name: dump
-          path: ../dump
+          path: dump
 
   commit:
     runs-on: ubuntu-latest
@@ -51,13 +53,12 @@ jobs:
             name: dump
             path: dump
       - uses: actions/checkout@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
-      - run: git config --global user.name 'GitHub Actions'
-      - run: git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-      - run: git add .
-      - run: git commit -m "routine update"
-      - run: git push
+      - name: commit dump
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -am "routine dump"
+          git push
 
   publish:
     runs-on: ubuntu-latest
@@ -71,6 +72,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
+      - name: publish
+        run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - run: npm publish

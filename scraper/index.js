@@ -18,6 +18,7 @@ page.on("response", async response => {
 
         //write to file
         fs.writeFileSync(path.join(path.resolve(), `../css/${name}`), content)
+        console.log(`Scraped ${name} to ../css/${name}`)
     }
 })
 
