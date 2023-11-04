@@ -1,6 +1,9 @@
 import fs from "fs"
 import path from "path"
 
+//init class regex
+const classRegex = /\.([\w-]+)/g
+
 //get css
 let css = ""
 fs.readdirSync(path.join(path.resolve(), "../css")).forEach(file => {
@@ -12,7 +15,7 @@ fs.readdirSync(path.join(path.resolve(), "../css")).forEach(file => {
 //get classes
 let classes = []
 let match
-while ((match = /\.([\w-]+)/g.exec(css)) !== null) {
+while ((match = classRegex.exec(css)) !== null) {
     classes.push(match[1])
 }
 
