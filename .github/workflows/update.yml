@@ -1,0 +1,72 @@
+name: update
+on:
+  schedule:
+    - cron: '0 * * * *' # run every hour
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: cd scraper
+      - run: npm ci
+      - run: npm start
+      - uses: actions/upload-artifact@v3
+        with:
+          name: css
+          path: ../css
+
+  dump:
+    runs-on: ubuntu-latest
+    needs: scrape
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+          name: css
+          path: css
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: cd scraper
+      - run: npm ci
+      - run: npm start
+      - uses: actions/upload-artifact@v3
+        with:
+          name: dump
+          path: ../dump
+
+  commit:
+    runs-on: ubuntu-latest
+    needs: dump
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+            name: dump
+            path: dump
+      - uses: actions/checkout@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+      - run: git config --global user.name 'GitHub Actions'
+      - run: git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+      - run: git add .
+      - run: git commit -m "routine update"
+      - run: git push
+
+  publish:
+    runs-on: ubuntu-latest
+    needs: commit
+    steps:
+      - uses: actions/download-artifact@v2
+        with:
+          name: dump
+          path: dump
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - run: npm publish
