@@ -6,7 +6,6 @@
   "keywords": [ "discord", "theme", "updater", "css", "class", "dump" ],
   "main": "index.js",
   "scripts": {
-      "dump": "node dumper.js",
       "test": "node index.js test/theme.css test/theme-updated.css"
   },
   "bin": "./index.js",

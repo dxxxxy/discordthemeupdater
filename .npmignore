@@ -1,3 +1,4 @@
 *.css
 .idea
-dumper.js
+dumper
+scraper
