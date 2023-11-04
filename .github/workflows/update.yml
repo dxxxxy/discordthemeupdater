@@ -1,7 +1,4 @@
 name: update
-defaults:
-    run:
-      working-directory: ./
 on:
   push:
     branches:
@@ -16,7 +13,9 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-#      - run: cd scraper
+      - run: pwd
+      - run: ls -al
+      - run: cd scraper
       - run: pwd
       - run: ls -al
       - run: npm ci
