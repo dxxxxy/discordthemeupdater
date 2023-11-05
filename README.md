@@ -5,9 +5,6 @@ A npm package that uses dumped css classes from discord to update theme files wi
 - Automatic updates for most classes.
 - Lightweight and fast with 0 dependencies.
 
-## TODO
-- [ ] Automatic dumping.
-
 ## Automatic Updates (Usage)
 ```sh
 npx discordthemeupdater@latest <in: theme file> <out: updated theme file>
