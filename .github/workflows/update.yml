@@ -4,12 +4,15 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *' # run every hour
+    # every hour
+    - cron: '0 * * * *'
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # install dependencies and run scraper
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
@@ -18,6 +21,8 @@ jobs:
         run: |
           npm ci
           npm start
+
+      # upload scraped css as artifact
       - uses: actions/upload-artifact@v3
         with:
           name: css
@@ -28,18 +33,23 @@ jobs:
     needs: scrape
     steps:
       - uses: actions/checkout@v4
+
+      # download scraped css
       - uses: actions/download-artifact@v2
         with:
           name: css
           path: css
+
+      # install dependencies and run dumper
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
       - name: dump
         working-directory: dumper
         run: |
-          ls -al ../css
           npm start
+
+      # upload dumped classes as artifact
       - uses: actions/upload-artifact@v3
         with:
           name: dump
@@ -49,11 +59,15 @@ jobs:
     runs-on: ubuntu-latest
     needs: dump
     steps:
+      - uses: actions/checkout@v4
+
+      # download dumped classes
       - uses: actions/download-artifact@v2
         with:
             name: dump
             path: dump
-      - uses: actions/checkout@v4
+
+      # check if there are any changes
       - name: check diff
         id: check_diff
         run: |
@@ -64,6 +78,8 @@ jobs:
             echo 'changes detected. committing.'
             echo '::set-output name=diff::true'
           fi
+
+      # commit and push changes
       - name: commit dump
         run: |
           if [ '${{ steps.check_diff.outputs.diff }}' == 'true' ]; then
@@ -78,11 +94,15 @@ jobs:
     needs: commit
     if: ${{ needs.commit.conclusion == 'success' }}
     steps:
+      - uses: actions/checkout@v4
+
+      # download dumped classes
       - uses: actions/download-artifact@v2
         with:
           name: dump
           path: dump
-      - uses: actions/checkout@v4
+
+      # publish updated package to npm
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
