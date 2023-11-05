@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # install dependencies and run scraper
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: '18'
       - name: scrape
@@ -35,13 +35,13 @@ jobs:
       - uses: actions/checkout@v4
 
       # download scraped css
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v3
         with:
           name: css
           path: css
 
       # install dependencies and run dumper
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: '18'
       - name: dump
@@ -62,7 +62,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # download dumped classes
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v3
         with:
             name: dump
             path: dump
@@ -72,10 +72,8 @@ jobs:
         id: check_diff
         run: |
           if git diff --quiet; then
-            echo 'no changes detected. skipping.'
             echo '::set-output name=diff::false'
           else
-            echo 'changes detected. committing.'
             echo '::set-output name=diff::true'
           fi
 
@@ -97,13 +95,13 @@ jobs:
       - uses: actions/checkout@v4
 
       # download dumped classes
-      - uses: actions/download-artifact@v2
+      - uses: actions/download-artifact@v3
         with:
           name: dump
           path: dump
 
       # publish updated package to npm
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: '18'
       - name: publish
