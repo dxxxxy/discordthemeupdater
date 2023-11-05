@@ -54,16 +54,29 @@ jobs:
             name: dump
             path: dump
       - uses: actions/checkout@v4
+      - name: check diff
+        id: check_diff
+        run: |
+          if git diff --quiet; then
+            echo 'no changes detected. skipping.'
+            echo '::set-output name=diff::false'
+          else
+            echo 'changes detected. committing.'
+            echo '::set-output name=diff::true'
+          fi
       - name: commit dump
         run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -am "routine dump"
-          git push
+          if [ '${{ steps.check_diff.outputs.diff }}' == 'true' ]; then
+            git config --global user.name 'GitHub Actions'
+            git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -am 'routine dump'
+            git push
+          fi
 
   publish:
     runs-on: ubuntu-latest
     needs: commit
+    if: ${{ needs.commit.conclusion == 'success' }}
     steps:
       - uses: actions/download-artifact@v2
         with:
