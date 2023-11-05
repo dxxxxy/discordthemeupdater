@@ -72,9 +72,9 @@ jobs:
         id: check_diff
         run: |
           if git diff --quiet; then
-            echo '::set-output name=diff::false'
+            echo 'diff=false' >> $GITHUB_OUTPUT
           else
-            echo '::set-output name=diff::true'
+            echo 'diff=true' >> $GITHUB_OUTPUT
           fi
 
       # commit and push changes
