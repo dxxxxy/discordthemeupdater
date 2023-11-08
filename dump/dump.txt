@@ -4313,6 +4313,8 @@ container_b03b4b
 header__4080b
 description__57d03
 emptyChannelIcon__1a1ba
+emptyChannelIconComponent_b97aed
+emptyChannelIconSvg__25a2f
 locked_e10853
 voiceChat_cde7ee
 pill_f055c3
