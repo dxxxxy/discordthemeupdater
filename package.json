@@ -1,12 +1,19 @@
 {
   "name": "discordthemeupdater",
   "author": "dxxxxy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A npm package that uses dumped css classes from discord to update theme files with a single command.",
-  "keywords": [ "discord", "theme", "updater", "css", "class", "dump" ],
+  "keywords": [
+    "discord",
+    "theme",
+    "updater",
+    "css",
+    "class",
+    "dump"
+  ],
   "main": "index.js",
   "scripts": {
-      "test": "node index.js test/theme.css test/theme-updated.css"
+    "test": "node index.js test/theme.css test/theme-updated.css"
   },
   "bin": "./index.js",
   "license": "GPL-3.0"
