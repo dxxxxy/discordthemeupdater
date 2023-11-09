@@ -107,11 +107,12 @@ jobs:
       - name: publish
         run: |
           npm version patch
-          npm publish
-          
+
           git config --global user.name 'GitHub Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am 'bump version'
           git push
+
+          npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
