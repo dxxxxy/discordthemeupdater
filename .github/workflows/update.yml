@@ -96,12 +96,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # download dumped classes
-      - uses: actions/download-artifact@v3
-        with:
-          name: dump
-          path: dump
-
       # publish updated package to npm
       - uses: actions/setup-node@v4
         with:
