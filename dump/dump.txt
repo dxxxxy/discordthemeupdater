@@ -14,7 +14,7 @@ heading-lg-semibold_a200cd
 heading-lg-bold_c2517a
 heading-lg-extrabold_c29e62
 heading-xl-normal__15a6a
-heading-xl-medium__4781fa
+heading-xl-medium__4781f
 heading-xl-semibold__18cc2
 heading-xl-bold_d7faef
 heading-xl-extrabold__6407c
