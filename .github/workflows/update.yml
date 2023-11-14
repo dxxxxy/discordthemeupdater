@@ -110,7 +110,7 @@ jobs:
 
           npm version patch
 
-          git pull
+          git pull --ff-only
           git push
 
           npm publish
