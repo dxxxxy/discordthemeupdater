@@ -5,7 +5,7 @@ heading-sm-bold_f10b5a
 heading-sm-extrabold_ee1ae8
 heading-md-normal__6b240a
 heading-md-medium_dd6c29
-heading-md-semibold__574c7
+heading-md-semibold__574c7a
 heading-md-bold__27797
 heading-md-extrabold__2f501
 heading-lg-normal__0de7c
