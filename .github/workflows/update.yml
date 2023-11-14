@@ -107,8 +107,7 @@ jobs:
 
           npm version patch
 
-          git pull
-          git push
+          git push -f
 
           npm publish
         env:
