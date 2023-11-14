@@ -105,14 +105,12 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       - name: publish
         run: |
-          git diff
-
           git config --global user.name 'GitHub Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
           npm version patch
 
-          git diff
+          git pull
           git push
 
           npm publish
