@@ -87,8 +87,8 @@ jobs:
             git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
             git commit -am 'routine dump'
-            
-            git push -f
+
+            git push
           fi
 
   publish:
@@ -105,12 +105,15 @@ jobs:
           registry-url: 'https://registry.npmjs.org'
       - name: publish
         run: |
+          git diff
+
           git config --global user.name 'GitHub Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
 
           npm version patch
 
-          git push -f
+          git diff
+          git push
 
           npm publish
         env:
