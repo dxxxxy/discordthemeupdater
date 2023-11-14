@@ -102,10 +102,11 @@ jobs:
           node-version: '18'
       - name: publish
         run: |
-          npm version patch
-
           git config --global user.name 'GitHub Actions'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          npm version patch
+
           git commit -am 'bump version'
           git push
 
