@@ -6202,6 +6202,7 @@ textBody__282cf
 artContainer_fc2857
 art__23b36
 shopForAllBackgroundImage__009d9
+shopForAllWinterBackground__34a14
 buttonsContainer__90115
 removeButton__64c13
 buttonHighlighted__73136
