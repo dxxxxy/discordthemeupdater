@@ -10871,6 +10871,7 @@ modalContent__589e6
 modalPreview__03c7a
 modalFooter__366ab
 modalFooterShopButton__32a45
+container__85909
 badge__38d19
 shopBanner__8d00b
 categoryLogo__1444c
@@ -10914,6 +10915,8 @@ previewContainer_d611ef
 previewTextContainer__2fa3a
 previewTitleContainer__89aa4
 previewTitle_bb7c50
+avatarDecorationPreview__2f195
+profileEffectPreview__7a288
 giftButton_bb2551
 giftButtonInner__4d3b4
 heading__1a617
