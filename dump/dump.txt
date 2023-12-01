@@ -8279,7 +8279,6 @@ forceButtonsShow__548bc
 overflowIcon__15bd5
 container__8877d
 iconContainer__004ce
-icon__388ab
 header_ffc801
 gap__148f2
 addButton__7e2ae
@@ -9231,10 +9230,10 @@ popoutText__56f7e
 popoutTextDetails__94a41
 popoutBottom_f1aeca
 debugButton__0c12a
-launchIcon__4fc49
 copyStatsButton__3e018
-copyIcon__2bc94
+textWithIcon__28467
 secured__615be
+lockIcon__58b8f
 ping__47992
 smallPing__9bcc7
 rtcConnectionStatus__40882
