@@ -3351,6 +3351,7 @@ textAreaThreadCreation__547cb
 profileBioInput__82aa1
 textAreaWithoutAttachmentButton_eed7f8
 textAreaForPostCreation_d82a1b
+textAreaCustomGift_eafd3f
 textAreaDisabled__60cc6
 buttons_ce5b56
 buttonContainer__8b164
@@ -4023,6 +4024,7 @@ label_f6dfd2
 avatarForSelected_db7f86
 votePercentageBar__4c440
 votesData__4d275
+voteDataLine_efaced
 container__3ca24
 bottomBar_ef16d0
 textButton__33241
@@ -6594,6 +6596,7 @@ hidden_bbd1c9
 iframe__214b3
 pipNonInteractive__31cff
 clickShield_ef8ee6
+multiPIPMode__0d121
 button_e25369
 badgeUpgrade__7e259
 icon__88f5c
@@ -6863,6 +6866,7 @@ stop5_b820e0
 container__79b26
 iconContainer_e97d42
 icon__3a061
+mask_b6df54
 textContainer__02ecb
 descriptionContainer__342b3
 descriptionText__0f081
@@ -6878,6 +6882,8 @@ termsApply__01eef
 termsApplyWithAnimation__90c29
 termsApplyLink_db423e
 container__1e26b
+settingsContainer__7e9ad
+affinityHeight__33e1e
 fullscreenTextContainer__751a0
 settingsTextContainer__65ea6
 description_c815c5
@@ -6976,7 +6982,6 @@ invisible__31ab2
 shinyButton__7c913
 button__33e53
 container__74da1
-settingsHero__55ff3
 settingsHeroNoBackground__0cfbe
 fullscreenHero_c52cb4
 noTopPaddingOverride__28e38
@@ -7262,8 +7267,10 @@ connectionOptionsWrapper_abe849
 connectionOptionSwitch_b4c979
 connectionOptions_d1a598
 integrationsWrapper_c767a9
+integrationWrapper__04dd5
 integration_d2f026
 guildIcon__87f0f
+integrationError_f2285e
 integrationInner__97d80
 channelLink__8422d
 connectionDelete__988b5
@@ -8761,7 +8768,8 @@ content__5de7b
 pointer__82285
 video__8fa96
 upsellBody__8ac53
-tooltipImage__2062b
+description_c25756
+tooltipImage__2e87b
 container__590e2
 varUpsellTooltip__107ff
 varUpsell__27abe
@@ -10641,6 +10649,7 @@ statusText__27b02
 pricePerInterval_b4509b
 body__834d2
 textArea__771cd
+editorTextArea__5ee78
 container__19fad
 addButton__9d2f2
 plusSign__2d1b4
@@ -11059,7 +11068,6 @@ buttonsContainer_d7f186
 previewButton_c4b5ef
 purchaseButton__63193
 previewButtonInner_f775c4
-defaultPreviewButtonColor__6cdf9
 premiumWheelTooltipContent__189f4
 premiumWheelBadge__2c9f2
 premiumWheel__02495
@@ -11087,6 +11095,7 @@ pinkInterface_e2e9c2
 blueHeadset_ce0796
 greenSmoke__0d063
 premiumUnlockHook_f72e1c
+snowflake__3643b
 container__18937
 header_abec60
 title__32446
@@ -14772,7 +14781,10 @@ userSubscriptionDetailsContainer_c18eb2
 stepBody__0162f
 bodyColumnMiddle_f4bcdf
 bodyColumnRight__94a69
+sendTo__27b60
+customGiftMessageWrapper_b062eb
 customGiftMessage_de4b5e
+giftPreview_a0da10
 headerContainer__1a9fc
 closeButton__1f98c
 headerImageContainer__96dc0
@@ -14783,8 +14795,11 @@ confettiCanvas_dd10a0
 defaultContainer__91554
 defaultTextInput__91909
 imageOnlyContainer__04301
-imageExpressionPickerButton_bfd5b8
-expressionPickerButtonImage__5366d
+expressionPickerButtonDefault_eda6e6
+expressionPickerButtonImageOnly__42a53
+expressionPickerIconDefault__286f7
+expressionPickerIconImageOnly_b5541a
+emojiDefault_a6c36f
 gifJumbo__8044e
 gifDefault_a0c5fa
 spinnerWrapper__6bb67
@@ -14797,15 +14812,14 @@ answerInputsContainer__22676
 defaultContainer__28189
 imageOnlyContainer__036ec
 formInput_c28524
+questionInput_ac682b
 footer__1028f
 postButton_bf09d5
-postButtonInner_bb4fbb
-postIcon_a3224d
+postButtonText__4aa81
 container_d9f390
 option_aec314
 optionSelected_ebb40c
 icon__60715
-iconSelected__362aa
 heading-sm-normal__4a449
 heading-sm-medium_b909f3
 heading-sm-semibold__9d269
@@ -15232,6 +15246,9 @@ whatYouLoseButtonContainer_cf923c
 confirmation_dda641
 banner_d4c724
 text__04443
+container_cf921f
+image_f8d345
+link_bb6ae8
 modal__3a6bf
 footer_dd8a4b
 bannerContainer__6d741
@@ -15358,6 +15375,11 @@ innerButton__7d545
 trialPill_d04c59
 video__47ab5
 header__78150
+buttonWide_bc8401
+innerButton_bce5f8
+nitroIconSubHeader_d58016
+termsApplyBodyText__64e4c
+termsApplyAnchor__07721
 root__89ffb
 footer__93fac
 content_b120d1
@@ -17981,7 +18003,7 @@ messageAttachment_b97504
 messageAttachmentNoJustify__922b7
 messageAttachmentFullWidth__89ab6
 messageAttachmentMediaMosaic__65bfc
-noBottomBorderRadius__8af42
+noBorderBottomRadius__1dde7
 hideOverflow_d442b2
 hoverButtonGroup__5b423
 nonMediaAttachment__30665
@@ -18092,6 +18114,7 @@ pictureInPictureWindow_dc49a8
 pictureInPictureWindowOverflow__3abe4
 borderRadius__3965c
 hidden__576d2
+noBoxShadow_d45938
 loading__30066
 appAsidePanelWrapper__714a6
 mobileAppAsidePanelWrapper_edffa0
