@@ -2603,9 +2603,6 @@ topLeft__223f4
 topRight__66d1a
 bottomLeft__8cfcd
 bottomRight_a26346
-listItemWrapper__1f93b
-listItemTooltip__7fa38
-selected_ad2d13
 listItem_fa7b36
 unavailableBadge__93b13
 iconBadge_fdf33a
@@ -2613,6 +2610,9 @@ isCurrentUserConnected_d9734f
 tutorialContainer_dc6fde
 hideEmoji_afe12d
 serverEmoji__740eb
+listItemWrapper__1f93b
+listItemTooltip__7fa38
+selected_ad2d13
 effect__50f2a
 effectsWrapper__9fe42
 pill__357e7
