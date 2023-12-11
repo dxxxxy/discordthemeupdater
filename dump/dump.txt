@@ -3436,6 +3436,7 @@ image_f4d883
 dmButtonContainer__06f1f
 dmButton__598d3
 container__5eb17
+noPointerEvents__16aad
 disabled__74c03
 separator__8424b
 buttonContainer__9b459
@@ -10907,6 +10908,7 @@ avatarDecoration_b3abcd
 decorationBanner_d5fe2e
 bannerContainer__7814d
 collectedInfoContainer_d8324a
+default__48f1b
 collectedTextContainer__3e39d
 confettiCanvas__125ed
 profileEffectShopPreview__9dbc6
@@ -14370,6 +14372,7 @@ authorContainer_fcbb03
 authorName__870d9
 channelTextArea_a0a561
 channelTextAreaInner__33239
+previewTextArea_ef8120
 channelTextAreaInnerError__10c1c
 controlsContainer__45ade
 controls__2ddda
