@@ -1,4 +1,5 @@
 wrapper__55afe
+activeWrapper__95162
 videoWrapper__12a62
 videoWrapperForHelper_cf8663
 gadientHighlight__0a91f
@@ -9245,8 +9246,6 @@ root__41539
 connected_c1258f
 icon__8f869
 connecting__02101
-customCallSoundsFeatureArt__5f0aa
-customCallSoundsFeatureHeader_ba0b7b
 scroller_a6a293
 expanded__5acb9
 voiceUsers__4147e
@@ -11014,6 +11013,7 @@ detailsWrapper_b31a7f
 hoverUpsellContainer__425f0
 innerHover__54e25
 innerBlur_ed9e8f
+innerMask__720e6
 checkmarkWrapper_f2dab8
 checkmark__2ccd6
 limitedTimeBadge__19a7e
