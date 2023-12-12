@@ -2180,8 +2180,7 @@ subtitle__4dd77
 skipButton_f66c28
 iconContainer_cd2671
 filledIcon__0811d
-badgeDefault__5dcfe
-badgeReplied_bb040a
+badge_b37eda
 innerBadge__2f562
 icon_a9525f
 paymentSourceLabel__0602d
@@ -10936,6 +10935,7 @@ regularShopCard__06c2e
 tallerShopCard__60f20
 shop_b31ed2
 shopScroll__2feb5
+shopScrollBackgroundPrimary_bb1f42
 itemTypeTitleContainer__58a10
 itemTypeTitle_ff8328
 newItemTypeBadge__7e6f7
@@ -13952,15 +13952,6 @@ spinner_ace10f
 title__2a9c4
 description__6a52a
 button_c61774
-title__76b2b
-subtitle__28a2f
-footer__835f2
-title__6536e
-subtitle__8d09e
-question__39a6b
-modal_bff660
-otherField__38d6b
-footer__17495
 container_fd3603
 user_c9973f
 username__072ae
