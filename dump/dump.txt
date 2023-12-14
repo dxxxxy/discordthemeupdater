@@ -2578,6 +2578,8 @@ emptyStateCTA_e6bca2
 miscContainer__3e350
 footer__3a140
 ctaButton_e1b1b6
+notificationBody__3f148
+iconContainer__88a0a
 animationContainer_d558e3
 container_ea4b39
 topLeft__223f4
@@ -18433,7 +18435,12 @@ iconWrapper__1e473
 star__5eca7
 sparkle__89b9e
 emojiButton__8ff6a
+spriteContainer__5b044
 sprite__294b3
+spriteColored_b1c6ab
+spriteGreyscale__7b70f
+inactive_c5f2cb
+active__6a892
 autocomplete_df266d
 autocompleteInner_a0e6a1
 autocompleteRow_a20cfa
