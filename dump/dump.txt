@@ -2839,6 +2839,13 @@ checkbox_fadaf0
 container__2c498
 spinner__62006
 loadingPlaceholder__408ba
+normalStylesDefault_b8063d
+normalStylesImageOnlyAnswers__10b2a
+victorStyles_d67b5e
+votedStyles__92837
+mutedMixinStyles__4d4fa
+selectedMixinStyles__6dfd9
+imageVotedAndVictorMixinStyles_ae3068
 fillParent__105b6
 hiddenIframeContainer__606cc
 iframePlaceholder_f5190a
@@ -3977,13 +3984,6 @@ mediaChannelIcon__893ff
 channelName_e058c4
 subscribeButton__4667d
 spoiler__4bf43
-normalStylesDefault_b8063d
-normalStylesImageOnlyAnswers__10b2a
-victorStyles_d67b5e
-votedStyles__92837
-mutedMixinStyles__4d4fa
-selectedMixinStyles__6dfd9
-imageVotedAndVictorMixinStyles_ae3068
 enabled__75d0c
 attachmentImage__468d1
 answersContainer_fd091b
