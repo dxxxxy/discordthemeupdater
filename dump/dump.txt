@@ -4196,10 +4196,6 @@ container__3a54c
 artContainer__967a5
 modalContainer_beb70f
 bodyContainer_de603d
-art_fa26ef
-root_e0f4f8
-header_a23522
-button__7ae36
 reactions_fba1d8
 icon_b0b9a4
 reactionBtn__46474
@@ -4266,10 +4262,6 @@ content_ebf67b
 buttonContainer__4305f
 cancel__1170f
 image__9ba4c
-burstReactionTooltipCoachmark_f8f406
-burstReactionTooltipCoachmarkButtons_c657c3
-burstReactionTooltipCoachmarkButton_e70c49
-burstReactionTooltipCoachmarkCTA__09343
 effect__18773
 effects__91e36
 effect__8d136
