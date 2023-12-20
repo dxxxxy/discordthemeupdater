@@ -1898,6 +1898,7 @@ grandfatheredMessage_b731ea
 grandfatheredMessageText_efed65
 grandfatheredIcon_a1e65f
 subscriptionRows__773f1
+dupSubscriptionRow__2abc4
 guildSubscriptionRow__43b32
 guildBoostingSubscriptionRow__3cbd5
 guildBoostingSubscriptionRowActive__48aff
@@ -1915,6 +1916,7 @@ detailsBlock__1191c
 paymentDropdown__6a89d
 redBorder__0114f
 detailBlockHeader__5b953
+duplicateHeader_ac8aff
 billingInformation_ed226c
 finePrint_a624a3
 cardText_c116a3
@@ -1922,6 +1924,8 @@ noItemsCard__4a2f1
 noItemsIcon_b1e42b
 newSparkles__6c90a
 boostingDesktopAppBlurb__03a6b
+duplicateSubscriptionsBanner__178e1
+duplicateSubscriptionsBannerText_a80007
 container_ae490a
 textContainer__6d072
 warningIcon_d18d51
@@ -2440,8 +2444,6 @@ accountCreditDescription__59ab8
 cardText__2fe30
 noItemsCard_f473e7
 noItemsIcon__38ca2
-duplicateSubscriptionsBanner_e2aeea
-duplicateSubscriptionsBannerText_ae1ef0
 elevationLow__2b6de
 elevationHigh__312fd
 elevationBorderLow__1fa50
@@ -12324,6 +12326,7 @@ otherRoles_a19529
 addRoleIcon__6eb16
 roleTooltip__776ce
 roleTooltipItemContainer__1ac2b
+roleTooltipSafetyContainer__85e04
 roleTooltipItem_fe6bd1
 disabledActionTooltip__7442a
 inviteContainer__4d80b
@@ -14901,10 +14904,6 @@ blocked_c05403
 blockedIcon__802ce
 blockedText_e375ba
 art_f8934e
-coachmark_db913c
-loading__9320e
-shopArt_acfdd5
-imageLoader__0a236
 tabBadge__002b3
 downloadProgressCircle_fad7dc
 hideGameUpdateProgressIndicator_b4115e
@@ -15437,6 +15436,7 @@ input__0217b
 reset__9ad8a
 classificationEvidenceContainer__91a8a
 classificationEvidenceCard__1b7da
+classificationEvidenceMessageAttachment_c76fcf
 classificationContainer_ee7986
 classificationHeader_cb5cbf
 classificationEvidenceContainer__6687d
