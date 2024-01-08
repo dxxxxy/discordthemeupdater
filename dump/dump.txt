@@ -1526,7 +1526,6 @@ maskBlack__1f601
 alert_da242e
 gameNightButton__71f00
 gameNightActivityIsActive__66108
-gameNightDeveloperActivityShelf__0babf
 gameNightButtonInner_a72ec4
 gameNightRocket_f91b21
 container__2891c
@@ -9255,8 +9254,6 @@ button__66e8c
 buttonColor_a6eb73
 buttonActive__407a7
 fauxDisabled__095d8
-buttonDeveloperActivityShelf__94e0d
-active__29381
 buttonContents__387ff
 buttonIcon__80d32
 withText__66931
