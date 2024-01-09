@@ -5437,9 +5437,11 @@ isCurrentUserConnected_d9734f
 tutorialContainer_dc6fde
 hideEmoji_afe12d
 serverEmoji__740eb
-ring__452c3
+tooltipText__03fc1
 pill_f4ac2f
 favoriteIcon_adf80e
+ring__349e5
+ringActive_bb4059
 listItemWrapper__1f93b
 listItemTooltip__7fa38
 selected_ad2d13
@@ -5457,6 +5459,8 @@ autoPointerEvents__64c85
 folderEndWrapper__7e489
 wrapperOver_fd0319
 folderTarget__06492
+circleIconButton_aea38e
+geoRestrictedBadge_c8de97
 progressContainer__7d5bb
 downloadIcon_c3bd9c
 container__2b951
