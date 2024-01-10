@@ -3937,6 +3937,11 @@ outerCircle__63878
 chatHeaderBar__452bd
 narrow__0fde3
 chatHeaderBarText__14b8a
+notice__6934b
+info_b9d68d
+buttons_d1f537
+button_e2e738
+buttonInner_d034a5
 chatHeaderBar__28ee6
 chatHeaderBarText_ac67c3
 narrow__569a2
@@ -7692,6 +7697,8 @@ trialMarketingMargin_dd639f
 whatsNewSection_e83a8d
 pdSparklesTop_eeb019
 pdSparklesBottom__58f44
+bottomOfPageVisibilitySensor__201a9
+scroller_a1aadd
 container__662c9
 textContainer_ebae6b
 heading_b7f3fe
@@ -7713,6 +7720,8 @@ giftNitro__7b37a
 footerSpacing_e43335
 bottomIllustration__8dcea
 heroHeading_a17887
+bottomOfPageVisibilitySensor_ab7f4d
+mainPageScroller__12afb
 container__9ecba
 applicationStoreHomeWrapper_ac145c
 loading__053e3
@@ -7753,7 +7762,6 @@ tier1BoostPerk__07872
 tier1CustomEmojiPerk_f5b44d
 tier1UploadPerk__01029
 tier1StreamPerk__930b9
-bottomOfPageVisibilitySensor_ca9280
 socialLinks_c1fc99
 link_b006df
 foreground__8f7af
@@ -9647,7 +9655,6 @@ listingSmall_d6b07c
 purchaseError_b2db13
 headerBar_afb1ac
 homeBody__413be
-scroller__244e5
 categoryHeader__46769
 viewAllGamesButton__6eb3d
 viewAllIcon__6a779
@@ -12229,6 +12236,7 @@ documentModeGroup_c1f054
 documentModeDescription_b5a4b5
 qualitySettingsContainer__5cacd
 toolTipTextContainer__3b924
+upsellText__80136
 tooltip_c91c10
 logoPrimary__3a045
 premiumIcon_c9b2b7
