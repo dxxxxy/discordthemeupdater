@@ -843,9 +843,6 @@ userPopoutOverlayBackground_d8afa4
 userProfileModalOverlayBackground__52d65
 userPanelOverlayBackground__34fc8
 container_e26056
-actionButton_dac582
-actionRightButton__8ac12
-pendingIncoming_c83b56
 divider__2bbbc
 baseAvatar__339f8
 largeAvatar__05dfa
@@ -1026,7 +1023,6 @@ editClydeButtonInner__2541e
 clydeErrorText_b9fc7e
 sadClyde_a845ad
 pencilIcon__93eec
-addFriendSection__413d3
 referencePosition__76f5a
 containerWrapper_fa6aa6
 animation_fb8933
@@ -2493,6 +2489,15 @@ searchBar__3b162
 header_f7f1f3
 searchHeader_b6500e
 backButton__6a1f0
+clickContainer__3050a
+clickable__84aa1
+clickableActive_b9faa6
+tag_d12d27
+tagActive_f1a7b8
+uploadContainer__50c3a
+description__5cc07
+fileInput__00b6c
+addFileButtonIcon__5ebf4
 wrapper_a5cbb9
 wrapper_b8c724
 wrapper__26137
@@ -3214,8 +3219,8 @@ name_b4c1cb
 linkedName_ea4f27
 channelNameContainer__04a50
 infoContainer_f82778
+draftBadge_a1ae8e
 draftBadgeContainer__54085
-draftBadge__81bcc
 tierName_ba33cc
 tierImage__31b2d
 tierPrice__35e14
@@ -3443,6 +3448,7 @@ opaqueBackground_bea563
 productThumbnailContainer_ca0cb3
 productThumbnail_ca4494
 purchaseToUnlockBadge__9cccf
+draftBadge_dbf179
 lockIcon__45e98
 productName__6a5fb
 productDetails_d43a93
@@ -4234,6 +4240,7 @@ confirmText__3ac23
 threadRoleMentionFailure__45369
 nitroFileSizeUpsell__5c7fc
 nitroBadgeSvg__19819
+ctaButtonContainer_e46fb9
 ticketIcon_dbbf9d
 mainContainer_f474ad
 compact__3e167
@@ -6527,6 +6534,7 @@ priceColumn_f5be26
 tabBarContainer__277d4
 tabBar__97134
 tabBarItem_fe6b2e
+previewButton_ba9b26
 table_c056b8
 tableContainer__3fe8a
 row__1397d
@@ -12378,6 +12386,7 @@ sourceName__7e932
 segmentContainer_c1b0a8
 segmentControl_b89f83
 segmentControlOption__84fb6
+keybindHint_f547ed
 mainCheckboxContainer__777cd
 checkboxContainer__28e86
 checkbox_aa0505
@@ -12502,6 +12511,15 @@ timeoutLabelIcon_d6e979
 unusualAccountActivityLabelIcon__9db91
 quarantinedLabelIcon__62925
 iconContainer_e03d5c
+inviteCodeOptionContainer__7ba2a
+labelWithIconContainer__9db6a
+icon__2e40c
+blankIcon__1dc11
+customLabelContainer_e315af
+labelText__1eabe
+focused__68a5e
+selectedOption__07ef3
+containerWithRightCaret__9d3c6
 rolePopout_da0123
 roleNameContainer__10853
 roleLabel__2aaf3
@@ -15483,6 +15501,7 @@ subtitle__49882
 optionHeader__02759
 learnMore__8d996
 policyContainer__9d7f3
+radioItem__7275d
 listContainer__7528c
 listItem__0cbd2
 anchorContainer__87cea
@@ -16173,6 +16192,9 @@ userInfoSectionHeader__31b66
 userInfoText__5f822
 note__7a4f4
 infoScroller__6ec79
+actionButton_dac582
+actionRightButton__8ac12
+pendingIncoming_c83b56
 header__7da4f
 headerTop__6628b
 badgeList_c193e3
@@ -18139,6 +18161,10 @@ notAppAsidePanel__9d124
 app_b1f720
 mobileApp_b798a5
 allowsScrolling__9de54
+group_d76384
+item__126a6
+grid__9e59e
+tile__4953a
 key__06b17
 container__1422c
 clickBlocker__6bb62
@@ -18640,8 +18666,6 @@ separator__45fb4
 action_caa81f
 card_dc88cd
 active_d55608
-group_d76384
-item__126a6
 root_b4f834
 option_f70eea
 text_f09abc
@@ -18976,8 +19000,6 @@ pegiSeven_d3d36b
 pegiTwelve__378bd
 pegiSixteen_d18229
 pegiEighteen_fa6c3a
-grid__9e59e
-tile__4953a
 recommendationReason__2ec3b
 circle_d78580
 icon__0ea26
