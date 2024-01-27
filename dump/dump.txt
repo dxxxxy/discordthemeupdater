@@ -3620,6 +3620,7 @@ listItemButton_a98837
 checkmarkCircle__88bcc
 answersContainer_fd091b
 answer_be6c2e
+currentlyVoting_ee856e
 attachment__02b3f
 attachmentWithResults__2468b
 emoji__27dab
@@ -3630,6 +3631,7 @@ votesData_e545ce
 answersContainer__97393
 answer__07489
 answerInner_a3bc8e
+currentlyVoting_ca7610
 answerContent_f678a4
 pollAnswerIcon_eeac4f
 mediaContainer__32ff8
