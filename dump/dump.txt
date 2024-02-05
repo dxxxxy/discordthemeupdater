@@ -6139,15 +6139,6 @@ appButtonContainer_c8ebdb
 appListThemedContainer_cc61cb
 giftButton__0988e
 giftButtonContainer__68103
-actionBarContainer__8649e
-applicationIcon__1f077
-textContainer__33b66
-textSubtitle_eacff6
-userSummaryContainer__5f310
-container__93316
-chatContainer__23434
-overlayContainer_b3bf6b
-activityActionBarContainer_cd73d4
 container__42884
 close_d06591
 closeIcon_ebae0c
