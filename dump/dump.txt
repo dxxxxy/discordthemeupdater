@@ -3346,6 +3346,8 @@ toolsButtons__93f4e
 toolsButton_cea0b4
 externalButton__64cae
 detailsContainer_d19ecf
+discountPill_dde3e3
+wordMark__4f8f8
 premiumSubscriptionAccountCredit__6bab4
 accountCreditRow__0be86
 iconBackground_e2dda2
@@ -9955,7 +9957,7 @@ familyCenterPendingBadge_ac950c
 broadcastingBadge__481c7
 broadcastingIcon__0bfcd
 newBadgeTooltip_e29756
-newBadgeTooltipContent__9929b
+marketingBadgeTooltipContent__720d9
 themedHeaderMobile_d96dbb
 themedSearchBarMobile__06312
 libraryFilter_c21584
@@ -15548,6 +15550,8 @@ rewardSubheading__44e84
 rewardHeading_e27832
 rewardSubheadingText__50f73
 rewardSubheadingIcon__51701
+platformSelectionOptionLabelContainer__251bb
+platformSelectionOptionIcon__6a873
 modalContent_d4e781
 header__807ed
 description__32529
@@ -18457,6 +18461,7 @@ mainContainer_f59f05
 compact__0b450
 content__08e71
 actionAnchor_d67b32
+flexLineBreak__29302
 embedCard__05d17
 cardContent_fc7261
 cardHeader__60ecb
