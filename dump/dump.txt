@@ -7822,6 +7822,9 @@ traceContainer__80055
 traceItem_d3c248
 violationList__54f25
 accessibilityOverlays_ec01f7
+row__34a00
+userCell__475a4
+affinityCell_bf5f64
 panel__40f99
 tableContainer__0d614
 subPanel__00134
