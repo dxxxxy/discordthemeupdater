@@ -11241,7 +11241,6 @@ mockInput_fd89c6
 mockInputButton_f0a25d
 titleContainer_faa17e
 titleImage__09f75
-winterTitleImage__1732f
 collectionText__817ba
 description__86be1
 button__2d59f
