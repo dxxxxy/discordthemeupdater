@@ -900,6 +900,7 @@ tierCardFocused_cf0a83
 tierCardHidden__9b38e
 tierCardAnimation__35541
 listItems__61d04
+listItemsBasic_c01252
 wumpusImageContainer__5990c
 tier0__2e127
 withTier0Rim_fb8112
@@ -4147,6 +4148,7 @@ guildBreadcrumbContainer__7ca51
 guildBreadcrumbIcon_e5951a
 loader__2854a
 forumPostTitle__43108
+subtitleContainer_f754d4
 container_def45c
 floating_f021e2
 notFloating__80043
@@ -5028,12 +5030,15 @@ reactions_d488fa
 emojiHotrail_a7034f
 emojiSuggestionButton_d25ed5
 emoji_db6bae
+contentImage_ee0279
+badgeContainer__7ffff
 container__35f96
+contentDescription__181da
+badgeContainer__626aa
 selected__540f0
 textSection__69223
 userSection__66df3
 badgesContainer__9dcef
-badgeContainer__626aa
 contentImage_d1bd0e
 container_d412fb
 channelMembers__4dbfb
@@ -8755,6 +8760,7 @@ settingsHeroBogoHeight__39203
 settingsHeroBogoMarginFullscreen__9f6a6
 premiumTierCardsContainer_e3c13b
 premiumTierCardsContainerSettings_f346a8
+premiumStackedTierCardsContainerSettings__03d64
 premiumTierCardsContainerFullscreen__90547
 premiumStackedTierCardsContainerFullscreen__36cd5
 marginTopForButtons__2d108
@@ -15865,6 +15871,7 @@ headerCTA__9fce3
 headerButton_fe8970
 inventoryHeader_de1495
 inventoryContainer_f4883b
+inventoryItems__62cfb
 inventoryItem__3f262
 itemImageContainer__3ef41
 itemName__3d5e7
@@ -15873,6 +15880,9 @@ itemImage__045ef
 stats__57223
 stat_b3e061
 statText__18098
+banner__1b5aa
+innerButton__2a740
+inline__3a4e8
 marketingUnsubscribeButton__72576
 notificationSound__8f5c7
 soundName__48bd4
