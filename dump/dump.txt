@@ -2273,8 +2273,6 @@ mention__96a15
 circularButton_e0aa9b
 wrapper__93c36
 badge__93f9e
-upArrow_cd14ec
-downArrow__335ff
 iframe__3dd58
 wrapper__89bfc
 resizable_ebfa5d
