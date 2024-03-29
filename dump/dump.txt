@@ -3572,9 +3572,6 @@ content__4353f
 closeWrapper__06665
 closeContent__42d26
 closeIcon__235bd
-closeContentMobile__3a00f
-closeContentNotMobile_dcb2cf
-closeIconNotMobile__82a4e
 header__655e5
 titleContainer_a222f7
 clickable_c2a872
@@ -3810,8 +3807,10 @@ recentGames_e4425b
 recentGamesHeading_bb152b
 recentGameContainer__8231a
 recentGameIcon__65d60
-recentGameTextContainer_bb26a9
-recentGameName_f79fae
+recentGameDetails_fa472d
+recentGameTitleContainer_bd3ae5
+sharedGameIcon__45b1e
+recentGameTitle__9adac
 divider_d6f39c
 baseAvatar_b2d16e
 largeAvatar__75414
