@@ -11097,7 +11097,6 @@ questAcceptedContent__6e04c
 details__6dee9
 submenuWrapper__8c833
 submenuIcon_f30720
-ctaWrapper__3c52c
 heroAssetWrapper__5208a
 heroAsset__7f31f
 cta_f68ce1
