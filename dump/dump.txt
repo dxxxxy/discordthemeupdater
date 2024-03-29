@@ -10244,8 +10244,11 @@ overviewSidebar__995aa
 scrollBg_b81d25
 scrollBgTop_e0da83
 scrollBgBottom__10a36
+signatureBlock__543fd
+signatureText_cb71b7
 overviewSidebarContent_b8b257
 overviewText__01ee0
+lastParagraph__7a09c
 introContainer__4ffdc
 closeIconButton_cc4258
 header__05198
@@ -10269,7 +10272,11 @@ timeSelection_cf3393
 timeSelectorRow_d86011
 addText__8f18c
 icon_e8e1b2
+iconSmall_cd3113
 clickable_a588cd
+plusIcon__22efe
+enterToSearchText_c64e49
+flex__7aeec
 upsellContainer__6d38c
 exclusive__6ed26
 container__7abe8
