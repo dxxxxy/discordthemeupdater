@@ -5469,7 +5469,6 @@ discrimBase__7b3a2
 userTagDiscriminatorNoNickname_bc7136
 headerBotTag__7d3b1
 headerBotTagWithNickname__5b7be
-paddingBottom__9c272
 auditLog_d27c92
 header_e2ddf5
 headerDefault__15513
@@ -10229,8 +10228,7 @@ clydeTooltipAsset__5e461
 dropdownWrapperHighlighted__0844c
 dropdownButton_a246fc
 visibilityHidden_a37b5e
-modal_f49d0b
-modalContents_e19dbf
+container__699bf
 closeButton_e88b7d
 mainContent__23e7a
 modalContent__2b13e
@@ -10252,16 +10250,9 @@ overviewText__01ee0
 lastParagraph__7a09c
 introContainer__4ffdc
 closeIconButton_cc4258
-capitalize__50f8e
 header__05198
 animationContainer_af2200
 scrollContainer__3789e
-signTextLeft__88879
-signTextRight_babb62
-signButton__6f375
-clickable_b41429
-fadeIn__0663f
-fadeOut_de0df3
 slideContent__6ae94
 title__20916
 subtitle__62596
