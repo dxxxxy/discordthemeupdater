@@ -9158,6 +9158,8 @@ fontScaling__42daa
 badgeRow__474f5
 badgeContainer__5607c
 contentImage__1c893
+menu__8306d
+selectButton__83238
 popout_cfa8bc
 hero_dc420c
 popoutTitle__6f44d
@@ -10368,6 +10370,7 @@ selected__501f5
 tooltipContainer__92298
 tooltipBackground_edba47
 tooltip_ba9b5f
+tooltipContent__02017
 pill__357e7
 circleIconButton__05cf2
 selected_aded59
@@ -13145,6 +13148,12 @@ stop2_ff5866
 stop3__1e610
 stop4_ee25a5
 stop5_b820e0
+attributionBannerContainer_e8b680
+attributionBannerContent_f57b5c
+iconContainer__1d929
+icon__35a2e
+textContainer__1bf53
+attributionIcon__221f4
 container_c871c1
 settingsContainer__35e25
 header__63457
