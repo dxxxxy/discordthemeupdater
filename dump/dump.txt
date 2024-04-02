@@ -978,6 +978,7 @@ embedVideo__303fe
 embedGalleryImagesWrapper__7df8f
 embedGallerySide_bb5989
 galleryImage_c684f7
+obscureVideoSpacing__98a58
 galleryImageContainer__37c56
 embedGalleryImageElement__00516
 centerContent__67827
@@ -2005,7 +2006,7 @@ hiddenAttachment_a5e57b
 obscured_d8e1c5
 hiddenSpoiler_f9f57f
 hiddenExplicit_e32465
-obscureVideo__7133c
+obscureVideoSpacing__59d03
 attachmentContentItem__47a25
 removeAttachmentButton__692b5
 spoilerRemoveAttachmentButton__20197
@@ -3829,6 +3830,7 @@ recentGameDetails_fa472d
 recentGameTitleContainer_bd3ae5
 sharedGameIcon__45b1e
 recentGameTitle__9adac
+newIcon__6568d
 divider_d6f39c
 baseAvatar_b2d16e
 largeAvatar__75414
@@ -6383,6 +6385,7 @@ customizationSection_b4bd44
 spinningAvatar_c1430f
 titleIcon_d336b8
 premiumTier2Divider__9bf0b
+requirement_f0aa0e
 sectionsContainer__45b62
 divider__8b90f
 tabBar__22a9a
@@ -10243,7 +10246,6 @@ modal_f49d0b
 modalContents_e19dbf
 closeButton_e88b7d
 mainContent__23e7a
-modalContent__2b13e
 scroller__24eef
 sequencer__0bd4c
 footer_d63e9e
@@ -10270,6 +10272,8 @@ signTextLeft__88879
 signTextRight_babb62
 signButton__6f375
 clickable_b41429
+previousButton_b43130
+finishButton__8590c
 fadeIn__0663f
 fadeOut_de0df3
 slideContent__6ae94
@@ -10280,11 +10284,14 @@ contentWithMinHeight__78ad4
 contentLabel_aa05d5
 selectedSection__5c175
 gameImagePlaceholder__732e7
+selectedGame__0084c
+selectedGameCheck__389d8
 selectedInterest_aa523d
 tagInput__4fbf8
 playstyleSelect_b7d88b
 playstyleOption__67567
 selectedPlaystyle_e4490f
+checkmark_c7b206
 playstyleTitle__00d17
 timeSelection_cf3393
 timeSelectorRow_d86011
