@@ -17251,6 +17251,10 @@ animationClickableOpening__31c7d
 animation__041bd
 openedItemText__94692
 openedItemTextUnopened__9dac7
+content__9de41
+image_a2ee89
+imageBox__8b12e
+text__49fb6
 title_b5c056
 warningText__6a6a3
 linkCalloutContainer__630a9
