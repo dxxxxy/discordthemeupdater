@@ -6378,9 +6378,6 @@ cardNameAndTagWrapper_d87ceb
 clanTagChipletWrapper__734a9
 clanTagChiplet__7f357
 playstyle__9d997
-primetimeContainer__2c3ce
-primetimeIcon_c4d213
-primetime_fd3eea
 traitsContainer__23f4b
 expandedTraitsContainer__95480
 trait_dfdb34
@@ -10434,6 +10431,8 @@ brandShine_fbbd2d
 freeTrialText__5a598
 banner__1680d
 bannerContent__29dfd
+negative48pxMarginTop_fc5de9
+negative24pxMarginTop__1769a
 countdown__57589
 bannerSubheader__35171
 subscribeButton__4835d
