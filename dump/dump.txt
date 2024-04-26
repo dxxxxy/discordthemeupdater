@@ -6186,6 +6186,7 @@ staticButton_e090bc
 contextMenuNub_bea150
 contextMenuCaret_ce9f87
 open__37c4a
+buttonMask_acf06c
 modal_d2e7a7
 image__1dc70
 wrapper__4d355
@@ -7256,6 +7257,7 @@ divider_ef3200
 scroller__24eef
 sequencer__0bd4c
 footer_d63e9e
+footerButtons__6d962
 footerAlphaMsg_e3ec93
 footerAlphaTag__21ac5
 progressContainer__378bd
@@ -7438,10 +7440,12 @@ clanCardOuter__8f0b1
 clanCardOuterLeft__86cf6
 clanCardOuterRight__761b5
 upsellCtaContainer__5221e
-upsellCtaTitle_e8cbe3
-upsellCtaDetails__8d79f
-upsellCtaDetail_a69e4c
+upsellTitle__75ee7
+upsellDetails_dbe31a
+upsellDetail__401db
+upsellDetailText__886b7
 upsellIcon__05e46
+stepsContainer__70c41
 upsellContainer_aae5af
 cardsContainer__43887
 cards__2e3a6
@@ -7457,13 +7461,13 @@ clanCardOuter__79a32
 clanCardOuterLeft_a7787d
 clanCardOuterRight__19d1a
 upsellDetails_fe7ec8
-upsellCtaTitle_f32e4e
-upsellCtaSubtitle__43db3
+upsellTitle__25132
+upsellSubtitle__06626
 sequencer__03419
 scroller_cc96df
-wizard__29f91
 footer__64d74
 footerActions_f527fe
+footerButtons__8396f
 scrollerContainer__4b6bd
 scroller_a9e72f
 adminUpsell_a0161a
@@ -8429,7 +8433,6 @@ dropsBadgeWrapper__35470
 dropsBadge__62648
 gameWrapper_da7443
 liveIndicator_fd070e
-streamingIconGlow__5b7b2
 clickableGameWrapper_dc17b2
 gameIconWrapper__0d95a
 gameIcon__5f62a
@@ -10088,7 +10091,6 @@ avatarHoverTarget__9b4a9
 button_e8c966
 buttonInner__915b1
 color_b28e35
-active_a8e6aa
 actionButton_a934dd
 container__02c63
 userContainer__1d5a2
@@ -10211,7 +10213,8 @@ header__50e51
 body_e0ce8a
 slideContainer_cf3a0d
 wrapper__3abe0
-modal__16963
+biteSize_b43281
+fullSize_c7ae09
 faded__699a5
 container__8d997
 contentDescription_e07aa0
@@ -10368,6 +10371,8 @@ modalContents_d4af1c
 sidebarWrapper_c37160
 sidebar__57865
 mainContent__465e0
+deleteItem__6d453
+statusDanger__3c2dd
 widthForAddPack__6a170
 addPackHeader__1aa70
 betaTag__866f4
@@ -18852,6 +18857,7 @@ header_b4bd8d
 question__6ebd5
 close_cb0059
 content__8d458
+panel__21993
 scroller_b7f6d8
 votersListContainer__27803
 voters_ddbfbc
@@ -20425,6 +20431,7 @@ tabBar_f88f31
 tab__7d975
 tabIcon__939d8
 iconTitle_be1c6f
+body_a614ef
 soundButtonSettingContainer__3821b
 emoji__6a13c
 secondaryIcon_feed61
