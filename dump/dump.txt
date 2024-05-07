@@ -4394,6 +4394,7 @@ overflowTooltip__7c9d4
 clanInfoRow__15925
 clanInfoItem__65fdd
 wildCardText_ed09a2
+bannerImage_ded537
 customButton__66f8a
 container__86b23
 buttonContainer_de2133
@@ -6152,7 +6153,8 @@ badgeList_b6652b
 badge__26d6e
 activity__47d03
 buttonColor_b3c4e5
-seeMoreText_ff3bd6
+viewFullBio__0403a
+viewFullBioText_fe72b1
 descriptionClamp__07797
 button__6d63b
 buttonInner_e7cd38
@@ -6848,9 +6850,11 @@ welcomeCardText_fe7c5e
 welcomeCardBadge_f54c35
 embed__26f68
 container_e8183e
-emoji__496e3
-title_eb3605
+imageContainer_b8eb37
 description_c2c202
+victorAnswer__797b7
+victorAnswerText_d5541e
+victorIcon_b173ae
 button__2268e
 ticketIcon_c730df
 welcomeCTA__82be6
@@ -8467,6 +8471,9 @@ secondaryText__7a32f
 voicePopoutMessageCloseIcon__9e357
 popoutStackedAvatar__339c9
 popoutBlockedWarningIcon_a01b83
+listeningTimeline_ec63b6
+seekBarContainer__39a4e
+seekBarFill__5532b
 container__16e95
 content_f139b1
 splashImage__14eaa
@@ -8596,9 +8603,11 @@ gameUnknownImage__080b3
 selectedGame_a69562
 checkBackground_dfb47b
 selectedGameCheck_d9d855
+selectedGameCheckLocked_dc2cc2
 gameImageLoading_ad31b1
 gameImageBackground__15198
 gameName_be13e2
+remainingGame__11ccc
 traitsContainer__01c4b
 tagsCount_f1c2de
 tags_ec9b5d
@@ -9674,8 +9683,6 @@ clydeTooltipAsset__5e461
 dropdownWrapperHighlighted__0844c
 dropdownButton_a246fc
 visibilityHidden_a37b5e
-upsellContainer__6d38c
-exclusive__6ed26
 container__7abe8
 close_d06591
 closeIcon_fa90b4
@@ -9696,6 +9703,13 @@ locationContainer_aaea42
 location_d0721e
 locationIcon_a0d148
 avatar_b4fc6a
+notice__5e8f3
+button__9ebf4
+invite_e46f65
+title_c61169
+inviteContainer__0d380
+envelope_aff450
+message__42438
 channelNotice__4b1b9
 close_bca307
 closeIcon__243ca
