@@ -4798,6 +4798,7 @@ textAreaThreadCreation_f5ecc4
 profileBioInput__6a44f
 textAreaWithoutAttachmentButton__8a454
 textAreaForPostCreation_fe07b8
+textAreaForUserProfile__8ffe1
 textAreaCustomGift__373a0
 textAreaDisabled__38376
 buttons__7ecff
@@ -5086,6 +5087,7 @@ popoutRoleCircle__9dbf3
 root_a99273
 role_d81130
 roleRemoveButton__20c70
+roleRemoveButtonCanRemove__3d3fa
 roleDot__4756e
 roleFlowerStar_b2d3a1
 roleRemoveIcon_c3913a
@@ -5312,6 +5314,7 @@ container_df7ce7
 clickableUsername_f267b3
 nickname__745d1
 userTagUsername__88953
+nicknameIcons__1b2d1
 usernameRow__73bf0
 tags__18aee
 userTag_eb9b2a
@@ -7260,8 +7263,6 @@ noDisplay_d23873
 scrollBg_bf01f4
 scrollBgTop__5ad5d
 scrollBgBottom__952b4
-signatureBlock_c3906a
-signatureText_ba8ce1
 overviewSidebarWrapper__97c37
 overviewSidebarContent__11ac5
 overviewText__9e4a2
@@ -7270,6 +7271,8 @@ overviewGuildName__2c32f
 placeholderIcon__70d9c
 charterClanTag__311c3
 charterClanBadge_e740db
+signatureBlock_c3906a
+signatureText_ba8ce1
 clickable__98c7c
 modal_a2e1b0
 content__406ff
@@ -8473,6 +8476,8 @@ secondaryText__7a32f
 voicePopoutMessageCloseIcon__9e357
 popoutStackedAvatar__339c9
 popoutBlockedWarningIcon_a01b83
+popoutTextPrimary_d83570
+popoutTextSecondary__579ec
 listeningTimeline_ec63b6
 seekBarContainer__39a4e
 seekBarFill__5532b
@@ -9472,6 +9477,7 @@ popoutAnchor_dd74d9
 popoutContainer_f91849
 popoutCaret__22ffc
 footer_b74401
+gradient_b29dbd
 backgroundImage__65618
 genshinBackgroundImage_b8f439
 valorantBackgroundImage__3ad7b
@@ -9808,6 +9814,7 @@ icon__493c1
 badge__1a553
 item_cc935b
 text__81c86
+rootContainer_b1d9f3
 headerContainer_d09a13
 text__3eeb0
 newBadge__905d8
@@ -12048,6 +12055,7 @@ defaultThemeSelection_f6b081
 selectionCircle_aa3fcd
 checkmarkCircle_b1b1cc
 checkmark__5b7ba
+redCircle__0c879
 disabled_b3fd85
 iconWrapper__660f6
 darkOverlay__11dff
@@ -12060,6 +12068,7 @@ appIconSelectionContainer__197e9
 appIconSelection__88ace
 selected__45e7f
 disabled__52159
+newBadgeCircle__2b010
 presets__230dd
 header_af3ebf
 headings__34ee9
