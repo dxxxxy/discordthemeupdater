@@ -4311,6 +4311,7 @@ avatar__93ab6
 avatarWrapper__860da
 overflowCount__630c2
 container__0998c
+clickableContainer__6a669
 image__75373
 content_c9b545
 header_ccd333
@@ -4328,7 +4329,10 @@ groupAvatar__4cf21
 gameIcon__4a06f
 pillContainer_d3df22
 joinButton__081d8
+joinButtonWrapper_f4db6e
+imageIcon_fdf820
 container_a88e31
+cards__3f65d
 header__3a32b
 rowIcon__45dc2
 rowIconV2_fe06d9
@@ -8707,6 +8711,7 @@ browseButton__17d35
 spacer__960c0
 joinWFSContainer_feee17
 joinWFS_b2bee7
+joinWFSLink_fee015
 container__5c0c5
 stepsContainer_fd80f9
 footer__259a2
@@ -10366,6 +10371,9 @@ questAcceptedContentHeading__46da5
 questProgressRewardTile__46cc9
 questAcceptedContentCopySubheading__3f4fd
 content__4f323
+wrapper_a1297f
+background_ff581d
+confetti__98722
 outer__69f24
 progressBar__3fee8
 progress__5a2a1
