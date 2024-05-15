@@ -9753,6 +9753,8 @@ discriminator_e03675
 globalName__61364
 messagePreview__486f6
 timestampWithPreview__44a71
+mutualGuildsContainer__46675
+mutualGuilds__4caba
 container_bf38a1
 userPreview__4a102
 messagePreview__69f69
@@ -10438,6 +10440,7 @@ wrapperVisible__2ef0b
 contentWrapper_bfbca4
 contentWrapperExpanded__0e2bd
 contentWrapperAccepted__6a814
+container_ab2539
 container__5e7db
 header__9eb55
 description__421e2
@@ -15098,6 +15101,7 @@ coachtipContent_bf52ea
 marketingBadgeTooltip__56856
 icon__20d44
 localizeBadge_f5c4cb
+newBadge_d8a97a
 empty__086ba
 headerText__88997
 privateChannelsHeaderContainer_b22dc9
