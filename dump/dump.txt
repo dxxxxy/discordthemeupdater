@@ -1228,7 +1228,10 @@ contentGameImageVoiceChannel__4db6a
 contentGameImageProfile_f9e39f
 contentGameImageProfileV2__3cfb3
 contentGameImageSimplifiedProfile__11d2a
+activityBiteSizePopout__67f8f
 textRow_c835f1
+nameWrap_b61c4b
+nameNormal_cb5c2b
 clickableDetails__282ba
 guildIcon__65d1b
 guildDetails_ac7c68
@@ -1245,8 +1248,6 @@ timeBarProfileV2_d92d85
 timeBarSimplifiedProfile__29715
 timeBarVoiceChannel__605fa
 activityName_a7b7de
-nameNormal_cb5c2b
-nameWrap_b61c4b
 bodyLink__022ea
 twitchImageContainer_d7492b
 twitchImageOverlay_ba608d
@@ -1266,7 +1267,6 @@ activityProfile__5d0ec
 activityProfileV2_f5335f
 activitySimplifiedProfile_a543ff
 activityUserPopoutV2__89098
-activityBiteSizePopout__67f8f
 wrap_f7e533
 activityDetails_b90109
 actions__8fd6d
@@ -3546,6 +3546,14 @@ buttonLoader_a95b74
 disabledButtonOverride__48f46
 guildIconImage_d3cb49
 acronym_f76f98
+gameImageContainer_ecf6f5
+extraGameCount__4a2d9
+gameImage__8bfdc
+tooltipGameImageContainer__97924
+tooltipGameImage__7288c
+tooltipGameName__274e4
+tooltipGames__2a826
+tooltipGame__14597
 container_fb01d4
 clickableCard__1c1e9
 card_d01b6d
@@ -3571,9 +3579,6 @@ cardFooterInfo__5a461
 cardFooterMembers__5eb8a
 cardFooterMembersIcon__1c10d
 cardFooterGames_aebfa9
-cardFooterGame_de9392
-cardFooterOtherCount_a26e63
-cardFooterGameImg_a0eeb2
 overflowTooltip__7c9d4
 clanInfoRow__15925
 clanInfoItem__65fdd
