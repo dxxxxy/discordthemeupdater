@@ -2445,6 +2445,7 @@ viewport_fd0792
 animator__160d3
 item__4a2ca
 root__07239
+carouselContainer__8d9fc
 carousel_c25a21
 carouselItem_dd9fbe
 pagination__3aea1
@@ -8296,6 +8297,7 @@ container__8d997
 contentDescription_e07aa0
 reply_d4ce98
 additionalParticipantBadge__23702
+openOnHover__53ecc
 icon_c888a7
 selected__31bdc
 infoSection__07f39
@@ -10492,6 +10494,20 @@ wrapperVisible__2ef0b
 contentWrapper_bfbca4
 contentWrapperExpanded__0e2bd
 contentWrapperAccepted__6a814
+container__5be37
+positionContentOverBackground__8fd75
+contents__93de2
+white__6bc0a
+heroAssetWrapper__6ab71
+heroAsset__7f62d
+overlay__193e7
+darkThemeGradient__34b11
+lightThemeGradient__299c3
+submenuWrapper__7b769
+submenuIcon__7e66b
+partnerBranding__0ba05
+bottomRow_bc23ac
+container__118f6
 container_c51520
 container__14678
 container__9cc85
