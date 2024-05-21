@@ -5903,10 +5903,6 @@ recentClipsPopout__663e8
 header__249f4
 thumbnailStackContainer_ff5fe9
 buttonsContainer__17053
-tooltip__17c29
-button__14158
-pollsCtaButton_a4dc61
-dismissButton_c7fbc5
 animation__2b4b8
 glow__5f536
 circleLayer__36846
