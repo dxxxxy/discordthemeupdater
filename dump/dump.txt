@@ -5012,9 +5012,6 @@ emojiButton_b5e483
 divider_d6bbe2
 buttonInner__878f4
 icon__2c9bf
-inactive__6ec5e
-active__05fbc
-hover_d0ebf2
 staticIcon__809c7
 staticDivider_db17a6
 reactions_fab214
@@ -14841,6 +14838,7 @@ bannerBody__4b11f
 badge_a5505f
 buttonWhite__913ed
 buttonBrand__5351b
+giftButton_ec2522
 cyBanner_e95603
 eeBanner__2878a
 ieBanner__1f765
