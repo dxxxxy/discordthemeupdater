@@ -9630,6 +9630,7 @@ poweredByNitroContainer__6865d
 icon__7f33e
 cta_b3dafc
 pointer_c1544c
+text_c23d21
 container_ebee1d
 pointer__0132c
 container_d3241b
@@ -16312,6 +16313,7 @@ applicationContainer_eab373
 scroller__46668
 verticalRule__8c737
 clanContainer__451f0
+applyButtonContainer__8dd0c
 verificationForm__7b4bb
 card_cc96f8
 root_a5c8ff
