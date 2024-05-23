@@ -3558,6 +3558,7 @@ tooltipGame__14597
 container_fb01d4
 clickableCard__1c1e9
 card_d01b6d
+cardStaticHeight_db1af7
 header__2b527
 clanIcon_d70524
 clanBadge__4c045
@@ -3567,6 +3568,7 @@ cardBrandingFooter__98c32
 cardContent__3001c
 cardContentTitleSection_dd3bf1
 cardContentDescriptionSection__30f21
+cardContentDescriptionCollapsed__4297f
 cardNameAndTagWrapper_d87ceb
 clanTagChipletWrapper__734a9
 clanTagChiplet__7f357
@@ -8526,6 +8528,8 @@ colorSwatch__53ee4
 colorPickersContainer_d5c0cb
 colorColumn__14c9d
 colorPicker__60283
+randomizeButton__8b8b2
+randomizeButtonInner_da273d
 content__4e550
 leftColumn__82ee9
 colorsContainer__2dee9
@@ -8644,8 +8648,6 @@ dividerResponsive__989b4
 sidebarResponsive_c4a2c0
 scroll__1ad6a
 stepsContainer__8d5da
-stepsTransitionGroup__770f6
-step__4b7ad
 hidden__7c65d
 navigationContainer_d0c34b
 elevatedNavigationContainer_f689e2
@@ -8792,6 +8794,9 @@ errorIcon__7a24c
 tooltip_b69b2e
 tooltipContents__7694a
 errorIconTooltip__54303
+stepsTransitionGroup__00ae3
+step__6bc2d
+scroller_d98c76
 clanEnvelope__0b99c
 clanEnvelopeTop_bf09a8
 clanEnvelopeBottom_e5cdee
@@ -10284,11 +10289,14 @@ submenuWrapper__7b769
 submenuIcon__7e66b
 partnerBranding__0ba05
 bottomRow_bc23ac
+container__84a63
+button__381b7
 container__118f6
+rewardDescriptionContainer__8745e
 questRewardTileAsset__33149
 textContainer_fb0d3e
-header_fbecef
 headerSpan__051f7
+header_fbecef
 description__65ac8
 container_c51520
 container__14678
@@ -12437,6 +12445,9 @@ sparkleContainer__9a1bd
 sparkleTop_ba0e37
 sparkleBottom__6837e
 infoBox__0e0d0
+section__861e5
+sectionDivider_f54a4a
+buttons_b6a0e0
 button_c15687
 enableSwitch__46bd5
 divider__8d11c
@@ -15742,6 +15753,7 @@ fakeMessage__672b9
 divider_cc4804
 settingSection_ec07b1
 ctaText_fa0e8d
+postscript_ce71e6
 modalContent__84d95
 header__899ec
 modalContent_c9b7e3
