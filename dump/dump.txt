@@ -5174,10 +5174,10 @@ avatarPositionPanel__2d765
 avatarPositionPomelo__6cc14
 avatarPositionBiteSize_edf897
 avatarHoverTarget__9b4a9
-wrapper__7f8df
-biteSize__89563
-fullSize__51728
-panel_a9140d
+wrapper__733c9
+biteSize_dd4657
+fullSize__32c87
+panel__98a0d
 button_e8c966
 buttonInner__915b1
 color_b28e35
@@ -5276,6 +5276,7 @@ messageScroller_e32a9b
 container__92a29
 header__250a4
 attachmentIcon__70061
+contentContainer__38b5f
 checkboxRow__6444a
 container__9ebdc
 guildContainer_dd598f
@@ -5303,6 +5304,10 @@ slideContainer_cf3a0d
 container__665d0
 badge__908e2
 container__52f24
+container__4274a
+buttonContainer__7f368
+button__95eda
+color_edbc1a
 button__7b26d
 visible__95288
 color_df1d13
@@ -5354,6 +5359,7 @@ section_e4c9af
 text_c93504
 spacer__93f54
 body__489bc
+banner__0519e
 inner_e8ffd7
 editor_f63872
 footer_b50e3f
@@ -12459,6 +12465,8 @@ infoBox__0e0d0
 section__861e5
 sectionDivider_f54a4a
 buttons_b6a0e0
+customPillContainer_e8103d
+searchableSelectExamples__3efa2
 button_c15687
 enableSwitch__46bd5
 divider__8d11c
@@ -20681,9 +20689,12 @@ recentGames__2995b
 clans__3c2a1
 note__7a4f4
 infoScroller__0920a
-actionButton__46a10
-actionRightButton__3faee
-pendingIncoming__75554
+actionButton_fe3e88
+multipleButtons__6d5ae
+actionRightButton_b01024
+pendingIncoming__8b94c
+iconTextButton_db9c2c
+color_e0286a
 header_dda341
 headerTop_e82f16
 badgeList__126b0
@@ -20722,6 +20733,7 @@ tabBar__6db53
 tabBarItem__7bc74
 container__020e3
 overlay__15b40
+banner__45a39
 buttons__9100c
 additionalActionsIcon__5e554
 inner__14185
