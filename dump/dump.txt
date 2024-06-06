@@ -471,7 +471,6 @@ up_fb6347
 left__362f7
 right_d651d8
 dim__7b9b1
-dark__42c4f
 keybindShortcutSearchPopout__8e438
 keyboardShortcuts_d9dce2
 positioner_c45194
@@ -3320,6 +3319,8 @@ premiumIcon__6c12e
 buttonText__4dec1
 giftButton__890d6
 giftIcon_a1f989
+tier1Gradient__63fd2
+tier2Gradient_db57b9
 container__3529f
 keybind_a619c1
 closeButton__8177f
@@ -3794,7 +3795,6 @@ primaryActions_d3a0dd
 enhancedPrimaryActions_db2d14
 secondaryAction__52111
 enhancedSecondaryAction_bbd620
-getNitroCTA__8d970
 closeButton__5e970
 artContainer__748ff
 artContainerBoxShadow_b9ab36
@@ -3804,6 +3804,8 @@ newBadge__9c4b4
 learnMoreLink__97b89
 context_e4de9b
 artContainer_cf7722
+updatedArtContainer__8c7cc
+updatedArt__65b9c
 body__6d192
 modalPreview__2145a
 smallDecorationPreview_eea994
@@ -3856,6 +3858,9 @@ gradient__33001
 heading__3ff72
 text__4fd4a
 confettiCanvas_d0db40
+additionalRedemptionInstructions__003a0
+sponsorLogo__1cdd3
+sponsoredBy__46614
 headerImage__03931
 header_fd6622
 title_ce2368
@@ -4799,6 +4804,7 @@ placeholder_dec8c7
 slateContainer__1d1fd
 slateTextArea_b19976
 placeholder__443e5
+channelTextAreaContainer__37a67
 channelTextArea__648e5
 highlighted_dfb4a5
 focusRing__8e7bd
@@ -5870,9 +5876,8 @@ content__12d00
 footer__068c0
 icon__645d9
 activityButton_d66dd3
-rocket__4ebd3
-rocketUnhovered__86bc7
-rocketHovered__0e379
+iconUnhovered__60810
+iconHovered_ce95cb
 buttonContainer_eed03a
 wrapper__71fd8
 icon__58cfe
@@ -10953,7 +10958,7 @@ hoverIcon__2025e
 tryingOutAvatarDecoration_bdb9b9
 avatar__0ce1b
 overlay_f5b201
-editPencil__103ad
+overlayIcon__43868
 clickable__611f4
 clickable_c7526c
 body_ed81f0
@@ -17360,6 +17365,7 @@ scrollerContent_c4a0ca
 setupHeader__5d3d9
 previewContainer_e43d4c
 previewButton__8c785
+headerWarning__71305
 container_ca070b
 wrapper__1e2d0
 headerSubtext_a1a1fb
@@ -19172,8 +19178,6 @@ carousel__60d1f
 carouselItem__6777e
 controls__70e9a
 paginationButton_cadcbe
-arrow_f85c6c
-paginationButtonIcon_d7942f
 paginationIndicatorContainer__13fc6
 paginationIndicatorButton__44ae5
 selected__84ab9
@@ -19183,8 +19187,6 @@ carousel_c638a6
 headerContainer__29549
 headerInnerContainer__1ecbe
 headerAsset__2db3c
-overflowSlideAnimatorContainer__57bdc
-overflowSlideAnimator__4428d
 overflowImage_b382c8
 headerContent_b74e9c
 badgeContainer__541f1
