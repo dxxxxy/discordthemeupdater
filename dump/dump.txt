@@ -6426,6 +6426,7 @@ freeTrialPillInlineBlock_c87d73
 freeTrialPillInline_c87d73
 freeTrialActivatedPillInline_c87d73
 modifiedPrice_c87d73
+modifiedPrices_c87d73
 price_c87d73
 newTagItem_c87d73
 mostPopularText_c87d73
@@ -6824,6 +6825,7 @@ appIcon_ec8cd2
 brokenImageIcon_b88265
 container_e5da8b
 icon_e5da8b
+darkenBannerImage_e5da8b
 bannerImageContainer_e5da8b
 mediumBanner_e5da8b
 largeBanner_e5da8b
@@ -6831,6 +6833,9 @@ bannerImage_e5da8b
 partnerLabelWrapper_e5da8b
 appDetailsContainer_e5da8b
 appDetails_e5da8b
+bannerImageChildContainer_e5da8b
+voiceLauncherAppCardContainer_e5da8b
+voiceLauncherAppCardButton_e5da8b
 header_b7ba1b
 viewMore_b7ba1b
 container_fb1469
@@ -16583,7 +16588,6 @@ followButton_e881fc
 gameDetails_e881fc
 mainContent_e881fc
 emptyFriendsWhoPlay_e881fc
-summary_e881fc
 imageScroller_e881fc
 gameArtwork_e881fc
 similarGames_e881fc
