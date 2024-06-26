@@ -3716,6 +3716,11 @@ text_dc9488
 spacer_dc9488
 inner_dc0b43
 editor_dc0b43
+ctaRow_dc0b43
+ctaTooltipContainer_dc0b43
+menuItemLabel_dc0b43
+engagementExpButton_dc0b43
+engagementExpButtonInner_dc0b43
 popover_a64b81
 visible_a64b81
 button_a64b81
@@ -3744,6 +3749,7 @@ addStatusPrompt_d0a252
 addStatusIconColor_d0a252
 editIcon_d0a252
 singleLineAlign_d0a252
+expandable_d0a252
 editGradient_d0a252
 editGradientEmojiOnly_d0a252
 editClickable_d0a252
