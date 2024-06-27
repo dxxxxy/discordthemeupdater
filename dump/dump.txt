@@ -2194,11 +2194,11 @@ hidden_b7ba1b
 container_fb1469
 image_fb1469
 body_fb1469
-icon_f3112b
-underline_f3112b
-container_f3112b
-cmdDetails_f3112b
-cmdAppName_f3112b
+icon_b78bb6
+underline_b78bb6
+container_b78bb6
+cmdDetails_b78bb6
+cmdAppName_b78bb6
 iconPlaceholder_a46f56
 underline_a46f56
 container_a46f56
@@ -2207,6 +2207,7 @@ textContainer_a46f56
 textPlaceholder_a46f56
 hidden_a46f56
 sectionContentContainer_d193fc
+sectionActivitiesContentContainer_d193fc
 emptyStateContainer_d193fc
 emptyStateImage_d193fc
 container_c7c1c7
