@@ -1794,7 +1794,6 @@ botTag_a31c43
 username_a31c43
 activity_a31c43
 activityText_a31c43
-subtext_a31c43
 activityEmoji_a31c43
 name_a31c43
 clanTag_a31c43
