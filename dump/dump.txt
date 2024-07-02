@@ -3533,6 +3533,7 @@ ctaTooltipContainer_dc0b43
 menuItemLabel_dc0b43
 engagementExpButton_dc0b43
 engagementExpButtonInner_dc0b43
+iconButton_dc0b43
 popover_a64b81
 visible_a64b81
 button_a64b81
@@ -3559,12 +3560,7 @@ placeholderWidth_d0a252
 incorporeal_d0a252
 addStatusPrompt_d0a252
 addStatusIconColor_d0a252
-editIcon_d0a252
 singleLineAlign_d0a252
-expandable_d0a252
-editGradient_d0a252
-editClickable_d0a252
-editClickableEmojiOnly_d0a252
 addStatusIcon_d0a252
 statusText_d0a252
 statusEmojiInline_d0a252
