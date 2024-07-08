@@ -2511,10 +2511,10 @@ emojiLockIconContainer_bcf389
 emojiLockIcon_bcf389
 lockedEmoji_bcf389
 emojiListRow_fbfedd
+newlyAddedHighlightContainer_fbfedd
 topEmojiSectionContainer_fbfedd
 topEmojiContainer_fbfedd
 noEmojis_fbfedd
-newlyAddedHighlightContainer_fbfedd
 newlyAddedBadge_fbfedd
 alignRight_fbfedd
 newlyAddedBadgeMedium_fbfedd
@@ -3521,6 +3521,7 @@ button_edead5
 root_c83b44
 pill_c83b44
 showMoreButton_c83b44
+collapseButton_c83b44
 container_dc9488
 mutuals_dc9488
 section_dc9488
@@ -3531,9 +3532,9 @@ editor_dc0b43
 ctaRow_dc0b43
 ctaTooltipContainer_dc0b43
 menuItemLabel_dc0b43
+biteSizeIconButton_dc0b43
+biteSizeButton_dc0b43
 engagementExpButton_dc0b43
-engagementExpButtonInner_dc0b43
-iconButton_dc0b43
 popover_bba79b
 visible_bba79b
 expandable_bba79b
@@ -3574,6 +3575,8 @@ addStatusIcon_d0a252
 statusText_d0a252
 statusEmojiInline_d0a252
 statusEmojiOnly_d0a252
+section_ba4d80
+list_fa6679
 avatar_db70f7
 memberListItem_db70f7
 popoutDisabled_db70f7
