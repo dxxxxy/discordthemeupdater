@@ -3612,7 +3612,6 @@ body_ae1fa2
 content_ae1fa2
 fullSize_ae1fa2
 details_ae1fa2
-subdetails_ae1fa2
 actions_ae1fa2
 badges_ae1fa2
 clickable_ae1fa2
