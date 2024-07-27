@@ -3288,6 +3288,13 @@ avatarPositionPanel_f89da9
 avatarPositionPomelo_f89da9
 avatarPositionBiteSize_f89da9
 avatarHoverTarget_f89da9
+header_b9cd33
+body_b9cd33
+footer_b9cd33
+preview_b9cd33
+previewForCollected_b9cd33
+container_b9cd33
+centeredButton_b9cd33
 popover_a64b81
 visible_a64b81
 expandable_a64b81
