@@ -3630,6 +3630,8 @@ inline_ae1fa2
 imagePosition_ae1fa2
 imageContainer_ae1fa2
 richImageContainer_ae1fa2
+imageAspectRatioDefault_ae1fa2
+imageAspectRatioCrunchyroll_ae1fa2
 contentImage_ae1fa2
 hangStatusIconBackground_ae1fa2
 hangStatusIcon_ae1fa2
