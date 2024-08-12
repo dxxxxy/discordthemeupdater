@@ -517,10 +517,12 @@ customItem_d90b3d
 labelContainer_d90b3d
 label_d90b3d
 subtext_d90b3d
+subtextLineClamp_d90b3d
 iconContainer_d90b3d
 iconContainerLeft_d90b3d
 icon_d90b3d
 imageContainer_d90b3d
+imageContainerLeft_d90b3d
 hintContainer_d90b3d
 image_d90b3d
 caret_d90b3d
