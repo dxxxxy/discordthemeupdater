@@ -2599,6 +2599,7 @@ unownedStickerLockContainer_a5e382
 unownedStickerLockIcon_a5e382
 row_a708c4
 sticker_a708c4
+showPulse_a708c4
 createSticker_a708c4
 createInspected_a708c4
 uploadCard_a708c4
