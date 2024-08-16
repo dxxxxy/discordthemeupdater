@@ -768,6 +768,8 @@ iconWrapper_fc4f04
 icon_fc4f04
 selected_fc4f04
 iconBadge_fc4f04
+iconBadgeTop_fc4f04
+iconBadgeBottom_fc4f04
 divider_fc4f04
 caret_fc4f04
 themed_fc4f04
