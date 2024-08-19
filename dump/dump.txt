@@ -1426,6 +1426,7 @@ clickable_c18810
 trait_c18810
 selectable_c18810
 selected_c18810
+placeholderSkeleton_d82d0d
 gameImageContainer_fda254
 highlighted_fda254
 extraGameCount_fda254
@@ -1445,13 +1446,17 @@ overflowMeasurement_d1e805
 measurements_d1e805
 tooltip_d1e805
 clickableCard_e0fe28
+nonClickableCard_e0fe28
 card_e0fe28
+skeletonCard_e0fe28
 favoriteButton_e0fe28
 shownFavoriteButton_e0fe28
 cardStaticHeight_e0fe28
 header_e0fe28
 clanIconMask_e0fe28
 clanIconInner_e0fe28
+skeletonIconInner_e0fe28
+skeletonIcon_e0fe28
 clanBadge_e0fe28
 cardBrandingHeader_e0fe28
 clanBannerPreview_e0fe28
@@ -2426,9 +2431,9 @@ categoryHeader_fe2299
 categorySection_fe2299
 categorySectionLast_fe2299
 itemWrapper_fe2299
+closeButton_cb4d21
+closeIcon_cb4d21
 bar_d1cd43
-closeButton_d1cd43
-closeIcon_d1cd43
 assetWrapper_cb3343
 assetWrapperMasked_cb3343
 stickerAsset_cb3343
@@ -2787,9 +2792,11 @@ closeButton_ef287f
 closeIconContainer_ef287f
 closeIcon_ef287f
 bar_f60904
+commandInfo_f60904
 name_f60904
 description_f60904
 error_f60904
+actions_f60904
 bar_cab5bc
 clipContainer_b11c5e
 container_b11c5e
@@ -2802,8 +2809,6 @@ actions_b11c5e
 mentionButton_b11c5e
 mentionIcon_b11c5e
 separator_b11c5e
-closeButton_b11c5e
-closeIcon_b11c5e
 createThreadButton_b11c5e
 emojiButton_d91a75
 spriteContainer_d91a75
@@ -2958,6 +2963,9 @@ inner_b84fc9
 editor_b84fc9
 container_b84fc9
 panel_b84fc9
+status_b84fc9
+biteSize_b84fc9
+avatar_b84fc9
 popover_bba79b
 visible_bba79b
 expandable_bba79b
@@ -3225,6 +3233,7 @@ upsellsContainer_b712b6
 container_c07bcc
 header_c07bcc
 upsellsContainer_c07bcc
+navLinkContainer_c07bcc
 container_bdd4e2
 guildContainer_bdd4e2
 header_bdd4e2
