@@ -2272,11 +2272,16 @@ upsellText_ad7baa
 nitroTopDividerContainer_e8f337
 nitroTopDividerUpper_e8f337
 nitroTopDividerShadow_e8f337
+glow_e8f337
+reducedMotion_e8f337
 nitroTopDividerLockContainer_e8f337
 nitroTopDividerLockBorder_e8f337
 nitroTopDividerLockCircle_e8f337
 nitroTopDividerLockBorderReversed_e8f337
 nitroTopDividerLower_e8f337
+turnTransparent_e8f337
+premiumUnlockAnimation_e8f337
+premiumUnlockedWithNitroPillContainer_e8f337
 image_b000dd
 imageLoading_b000dd
 emojiSpriteImage_bcf389
@@ -2312,6 +2317,7 @@ categorySectionCollapsed_a3bc57
 categorySectionNitroDivider_a3bc57
 categorySectionNitroLocked_a3bc57
 header_a3bc57
+categorySectionOpacityAnimation_a3bc57
 inactiveNitroHeader_a3bc57
 activeNitroHeader_a3bc57
 premiumUpsell_a3bc57
@@ -2537,6 +2543,7 @@ secondaryButton_f40049
 secondaryIcon_f40049
 favoriteIconFavorite_f40049
 primaryIcon_f40049
+lockIcon_f40049
 primaryIconTopLevel_f40049
 unavailableTooltip_f40049
 soundButtonWrapper_c06ee5
@@ -3233,7 +3240,7 @@ upsellsContainer_b712b6
 container_c07bcc
 header_c07bcc
 upsellsContainer_c07bcc
-navLinkContainer_c07bcc
+navLinkButton_c07bcc
 container_bdd4e2
 guildContainer_bdd4e2
 header_bdd4e2
