@@ -491,10 +491,10 @@ whiteText_aae945
 children_a6ae9b
 sectionTitle_a6ae9b
 container_cebd1c
+disabled_cebd1c
 input_cebd1c
 slider_cebd1c
 checked_cebd1c
-disabled_cebd1c
 container_ed1d57
 labelRow_ed1d57
 control_ed1d57
@@ -503,6 +503,7 @@ titleDefault_ed1d57
 titleMini_ed1d57
 title_ed1d57
 note_ed1d57
+disabledText_ed1d57
 dividerDefault_ed1d57
 interactive_f5eb4b
 muted_f5eb4b
@@ -2249,7 +2250,6 @@ nitroTopDividerLockBorder_e8f337
 nitroTopDividerLockCircle_e8f337
 nitroTopDividerLockBorderReversed_e8f337
 nitroTopDividerLower_e8f337
-turnTransparent_e8f337
 premiumUnlockAnimation_e8f337
 premiumUnlockedWithNitroPillContainer_e8f337
 image_b000dd
@@ -2287,7 +2287,6 @@ categorySectionCollapsed_a3bc57
 categorySectionNitroDivider_a3bc57
 categorySectionNitroLocked_a3bc57
 header_a3bc57
-categorySectionOpacityAnimation_a3bc57
 inactiveNitroHeader_a3bc57
 activeNitroHeader_a3bc57
 premiumUpsell_a3bc57
