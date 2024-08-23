@@ -909,6 +909,14 @@ actions_cc6793
 iconWrapper_cc6793
 icon_cc6793
 disabled_cc6793
+container_be45f6
+icon_be45f6
+iconDiv_be45f6
+text_be45f6
+positive_be45f6
+warning_be45f6
+info_be45f6
+error_be45f6
 wrapper_a2a7b5
 flexWrapper_a2a7b5
 image_a2a7b5
@@ -3050,14 +3058,6 @@ header_c1d80f
 guildInfo_c1d80f
 guildIcon_c1d80f
 headerContainer_e9d805
-container_bc1f7a
-icon_bc1f7a
-iconDiv_bc1f7a
-text_bc1f7a
-positive_bc1f7a
-warning_bc1f7a
-info_bc1f7a
-error_bc1f7a
 infoBox_a644f3
 wrapper_f9f2ca
 compact_f9f2ca
@@ -3658,6 +3658,7 @@ lightElevationBorderHigh_ff8688
 elevationBorderHigh_ff8688
 pictureInPicture_e0c856
 pictureInPictureWindow_e0c856
+pictureInPictureWindowFloatingPIP_e0c856
 borderRadius_e0c856
 hidden_e0c856
 resizeHandle_e0c856
