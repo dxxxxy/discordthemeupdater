@@ -1598,6 +1598,7 @@ listItemsBasic_c87d73
 tierCardFocused_c87d73
 tierCardHidden_c87d73
 wumpusImageContainer_c87d73
+wumpusImage_c87d73
 tier0_c87d73
 withTier0Rim_c87d73
 tier2_c87d73
@@ -2248,6 +2249,9 @@ headerCollapseIcon_e06857
 headerCollapseIconCollapsed_e06857
 upsellButton_ad7baa
 upsellContainer_ad7baa
+upsellContainerShadow_ad7baa
+upsellContainerFloating_ad7baa
+upsellContainerInline_ad7baa
 upsellText_ad7baa
 nitroTopDividerContainer_e8f337
 nitroTopDividerUpper_e8f337
@@ -2284,6 +2288,7 @@ emojiListRowLargeSize_fbfedd
 emojiListRowMediumSize_fbfedd
 emojiItem_fbfedd
 emojiItemSelected_fbfedd
+expandCollapseButtonSelected_fbfedd
 showPulse_fbfedd
 emojiItemLarge_fbfedd
 emojiItemMedium_fbfedd
