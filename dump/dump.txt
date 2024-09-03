@@ -3684,7 +3684,6 @@ lightElevationBorderHigh_ff8688
 elevationBorderHigh_ff8688
 pictureInPicture_e0c856
 pictureInPictureWindow_e0c856
-pictureInPictureWindowFloatingPIP_e0c856
 borderRadius_e0c856
 hidden_e0c856
 resizeHandle_e0c856
