@@ -321,6 +321,11 @@ applicationDetails_d6f023
 entry_d6f023
 entryIcon_d6f023
 entryInner_d6f023
+applicationEducation_d5a5e0
+sectionLabel_d5a5e0
+entry_d5a5e0
+entryIcon_d5a5e0
+entryText_d5a5e0
 scopes_cf14a8
 scope_cf14a8
 scopeInner_cf14a8
