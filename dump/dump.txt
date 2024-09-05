@@ -1560,6 +1560,7 @@ revealed_cf58b5
 tooltip_cf58b5
 tooltipEmojiName_cf58b5
 imageContent_cf58b5
+imageContentSafari_cf58b5
 imageContainer_cf58b5
 altText_cf58b5
 mediaMosaicAltTextContainer_cf58b5
@@ -1804,6 +1805,7 @@ hideLearnMore_cc6d33
 shine_cc6d33
 nitroUpsellContainer_f03ca8
 nitroWheel_f03ca8
+nitroText_f03ca8
 modalPreview_aba31b
 smallDecorationPreview_aba31b
 previewSections_aba31b
@@ -3029,8 +3031,8 @@ secondaryButton_f40049
 secondaryIcon_f40049
 favoriteIconFavorite_f40049
 primaryIcon_f40049
-lockIcon_f40049
 primaryIconTopLevel_f40049
+lockIcon_f40049
 unavailableTooltip_f40049
 unavailableTooltipRefresh_f40049
 soundButtonWrapper_c06ee5
