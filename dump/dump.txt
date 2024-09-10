@@ -2932,6 +2932,7 @@ soundAddTextRefresh_c06ee5
 soundAddIcon_c06ee5
 disabled_c06ee5
 categoryList_ceda83
+expressionPickerCategoryList_ceda83
 category_ceda83
 categoryIcon_ceda83
 selected_ceda83
@@ -2960,7 +2961,7 @@ settingsClickArea_ca5acd
 settingsIcon_ca5acd
 picker_cd703d
 refresh_cd703d
-autoWidth_cd703d
+inExpressionPicker_cd703d
 fetching_cd703d
 categoryList_a7a485
 stickerCategory_a7a485
@@ -3055,6 +3056,7 @@ introductionTooltipContent_af5dbb
 stickersNavItem_af5dbb
 stickersUnseenBadge_af5dbb
 soundboardContainer_af5dbb
+soundboardHeader_af5dbb
 container_ccd3df
 hidden_ccd3df
 stickerIconOffset_ccd3df
