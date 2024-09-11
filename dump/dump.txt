@@ -1731,7 +1731,6 @@ overflowMeasurement_d1e805
 measurements_d1e805
 tooltip_d1e805
 clickableCard_e0fe28
-nonClickableCard_e0fe28
 card_e0fe28
 skeletonCard_e0fe28
 favoriteButton_e0fe28
