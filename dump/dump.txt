@@ -2370,6 +2370,7 @@ dotSpacer_c32acf
 tooltip_a778ee
 viewFullBio_abaf7d
 viewFullBioColor_abaf7d
+viewFullBioDisabled_abaf7d
 descriptionClamp_abaf7d
 maxBioHeight_abaf7d
 pill_f9575e
@@ -3343,7 +3344,6 @@ buttonInner_de3e42
 icon_de3e42
 staticIcon_de3e42
 staticDivider_de3e42
-menuItemLabel_d27a56
 inner_c59af2
 editor_c59af2
 ctaRow_c59af2
