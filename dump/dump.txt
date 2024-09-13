@@ -1732,8 +1732,8 @@ measurements_d1e805
 tooltip_d1e805
 clickableCard_e0fe28
 card_e0fe28
-skeletonCard_e0fe28
 favoriteButton_e0fe28
+skeletonCard_e0fe28
 shownFavoriteButton_e0fe28
 cardStaticHeight_e0fe28
 header_e0fe28
@@ -1768,6 +1768,8 @@ wildCardText_e0fe28
 nameText_e0fe28
 bannerImage_e0fe28
 selectedTrait_e0fe28
+animateButtonIn_e0fe28
+animateButtonOut_e0fe28
 customButton_ff01f0
 container_c22357
 buttonContainer_c22357
@@ -1862,7 +1864,6 @@ text_b3552d
 confettiCanvas_b3552d
 additionalRedemptionInstructions_b3552d
 sponsorLogo_b3552d
-sponsoredBy_b3552d
 headerImage_cf4d85
 header_cf4d85
 title_cf4d85
@@ -3528,12 +3529,6 @@ demoEffectOverlay_c55fec
 demoEffectImg_c55fec
 button_f861bb
 badgeUpgrade_f861bb
-icon_e5a869
-badge_e5a869
-container_e54bbe
-content_e54bbe
-actions_e54bbe
-button_e54bbe
 mirror_c11cdc
 video_c11cdc
 media_c11cdc
