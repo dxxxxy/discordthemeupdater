@@ -401,7 +401,7 @@ sectionGroup_c5a065
 sectionLabel_c5a065
 intObserver_c5a065
 emoji_c5a065
-buttonOverflow_c5a065
+buttonWithEmoji_c5a065
 errorCodeMessage_c78a6e
 title_a4cad7
 combo_c90023
@@ -1140,6 +1140,10 @@ topRimPill_c87d73
 rimGlowTier0_c87d73
 rimGlowTier2_c87d73
 trialHeader_c87d73
+withHalloweenTier2_c87d73
+halloweenGiftMessage_c87d73
+halloweenGiftMessageText_c87d73
+halloweenAvatar_c87d73
 heading_aac415
 context_aac415
 gradientUpsellWrapper_aac415
@@ -3566,8 +3570,6 @@ rightTrayIcon_d22933
 embedTarget_d22933
 embedTargetHidden_d22933
 participantName_d22933
-emptyBroadcast_d22933
-innerEmptyBroadcast_d22933
 container_ce795d
 containerMinimized_ce795d
 content_ce795d
