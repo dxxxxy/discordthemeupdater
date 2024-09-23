@@ -1940,6 +1940,7 @@ threadMessageAccessoryAvatar_f9f2ca
 replyAvatar_f9f2ca
 replyBadge_f9f2ca
 executedCommandAvatar_f9f2ca
+replyChatIconContainer_f9f2ca
 replyIcon_f9f2ca
 clanTagChiplet_f9f2ca
 userJoinSystemMessageIcon_f9f2ca
@@ -1952,6 +1953,8 @@ commandName_f9f2ca
 botTag_f9f2ca
 appsIcon_f9f2ca
 appLauncherOnboardingCommandName_f9f2ca
+targetUsername_f9f2ca
+executedCommandSeparator_f9f2ca
 repliedTextPreview_f9f2ca
 threadMessageAccessoryPreview_f9f2ca
 repliedTextContent_f9f2ca
