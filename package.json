@@ -1,7 +1,7 @@
 {
   "name": "discordthemeupdater",
   "author": "dxxxxy",
-  "version": "1.0.288",
+  "version": "1.0.289",
   "description": "A npm package that uses dumped css classes from discord to update theme files with a single command.",
   "keywords": [
     "discord",
