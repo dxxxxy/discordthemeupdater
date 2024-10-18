@@ -316,6 +316,8 @@ content_c49869
 disableScrollAnchor_c49869
 managedReactiveScroller_c49869
 pointerCover_c49869
+animationWrapper_a9340b
+lottieAnimation_a9340b
 applicationDetails_d6f023
 entry_d6f023
 entryIcon_d6f023
@@ -878,6 +880,8 @@ tooltip_d1e805
 clickableCard_e0fe28
 card_e0fe28
 favoriteButton_e0fe28
+applyToJoinButton_e0fe28
+applyToJoinContainer_e0fe28
 skeletonCard_e0fe28
 shownFavoriteButton_e0fe28
 cardStaticHeight_e0fe28
