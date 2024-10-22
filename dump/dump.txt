@@ -1294,6 +1294,7 @@ button_f9d37d
 icon_f9d37d
 hover_f9d37d
 banner_f9d37d
+textBanner_f9d37d
 visible_f9d37d
 buttonInner_f9d37d
 themeColor_f9d37d
@@ -1855,16 +1856,16 @@ imageContainer_fa854f
 contentImage_fa854f
 smallImageContainer_fa854f
 card_ae1fa2
-disabled_ae1fa2
+hoisted_ae1fa2
 header_ae1fa2
 headerText_ae1fa2
 headerContextMenu_ae1fa2
 absolute_ae1fa2
-platformIcon_ae1fa2
 body_ae1fa2
 content_ae1fa2
-fullSize_ae1fa2
 details_ae1fa2
+platformIcon_ae1fa2
+fullSize_ae1fa2
 actions_ae1fa2
 primaryButton_ae1fa2
 customButton_ae1fa2
@@ -3220,6 +3221,7 @@ backdrop_c9e2da
 layer_c9e2da
 hidden_c9e2da
 content_a4002a
+cancelButton_a4002a
 pageControlContainer_b48941
 pageControl_b48941
 pageButton_b48941
