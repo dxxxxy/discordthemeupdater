@@ -884,6 +884,10 @@ cardContainer_c22357
 tooltipFooter_c22357
 button_c22357
 waitlistedButton_c22357
+askToJoinInputWrapper_c22357
+inputRow_c22357
+sendButton_c22357
+input_c22357
 chipletContainerInner_d5cb59
 chipletContainerInline_d5cb59
 clickable_d5cb59
