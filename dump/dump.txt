@@ -601,6 +601,8 @@ contextMenuNub_ef18ee
 contextMenuCaret_ef18ee
 open_ef18ee
 buttonMask_ef18ee
+glow_ef18ee
+glowVideo_ef18ee
 mediaBarInteraction_d12f5a
 mediaBarInteractionDragging_d12f5a
 mediaBarWrapper_d12f5a
