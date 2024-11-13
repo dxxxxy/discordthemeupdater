@@ -1607,6 +1607,8 @@ silverBorder_e6eff2
 bronzeBorder_e6eff2
 defaultBorder_e6eff2
 rank_e6eff2
+rankWithBorder_e6eff2
+rankNoBorder_e6eff2
 goldText_e6eff2
 silverText_e6eff2
 bronzeText_e6eff2
