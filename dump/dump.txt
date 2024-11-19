@@ -834,6 +834,7 @@ unavailableTooltipRefresh_f40049
 icon_dd5a70
 sliderContainer_dd5a70
 slider_dd5a70
+betaBadge_dd5a70
 infoContainer_dd5a70
 infoNitroContainer_dd5a70
 infoNitroBackground_dd5a70
@@ -1313,8 +1314,10 @@ name_a31c43
 clanTag_a31c43
 container_a5ad5c
 text_a5ad5c
+container_ab08a5
 avatar_ab08a5
 avatarHalo_ab08a5
+avatarIconContainer_ab08a5
 biteSize_c69a7b
 fullSize_c69a7b
 panel_c69a7b
@@ -1337,8 +1340,10 @@ preview_b6f000
 previewForCollected_b6f000
 container_b6f000
 header_b6f000
+headerContainer_b6f000
 centeredButton_b6f000
 body_b6f000
+bodySpacing_b6f000
 avatar_f94206
 biteSize_f94206
 fullSize_f94206
