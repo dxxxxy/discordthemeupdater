@@ -1944,7 +1944,8 @@ bottomRightStar_b64375
 contentImage_dc67b6
 clickable_fa854f
 imagePosition_fa854f
-aspectRatioCrunchyroll_fa854f
+aspectRatio_fa854f
+crunchyroll_fa854f
 imageContainer_fa854f
 contentImage_fa854f
 smallImageContainer_fa854f
