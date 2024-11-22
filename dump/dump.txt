@@ -1013,6 +1013,8 @@ questRewardTileAssetStatic_cc6d33
 questRewardTileDetailsLearnMore_cc6d33
 hideLearnMore_cc6d33
 shine_cc6d33
+nitroRewardTileAssetContainer_cc6d33
+nitroRewardTileAsset_cc6d33
 nitroUpsellContainer_f03ca8
 nitroWheel_f03ca8
 nitroText_f03ca8
