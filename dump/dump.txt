@@ -1646,6 +1646,12 @@ disableInteraction_d5deea
 hasContent_d5deea
 beforeGroup_d5deea
 interactionSending_d5deea
+divider_ad3550
+updateMessage_ad3550
+infoMessageIcon_ad3550
+joinLeaderboardButton_ad3550
+joinLeaderboardButtonInner_ad3550
+riotIcon_ad3550
 menuIcon_cdae90
 container_bc01cf
 title_bc01cf
