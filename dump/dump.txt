@@ -1422,6 +1422,7 @@ row_b01a4f
 featureGuide_b01a4f
 iconContainer_b01a4f
 icon_b01a4f
+label_eb3c91
 actionButton_f5dff0
 popoutWrapper_ccc074
 scroller_ccc074
@@ -1753,6 +1754,7 @@ backgroundImages_d1fdce
 iconImage_d1fdce
 largeCountdownPill_aa13b8
 largeCountdownPillText_aa13b8
+largePillIcon_aa13b8
 unavailableCounterContainer_e57ea2
 unavailableCounterPill_e57ea2
 unavailableCounterPillText_e57ea2
