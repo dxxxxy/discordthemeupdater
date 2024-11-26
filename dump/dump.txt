@@ -1004,6 +1004,8 @@ wrappedName_d808b0
 nameAndDecorators_d808b0
 subText_d808b0
 children_d808b0
+nitroRewardTileAssetContainer_e5593d
+nitroRewardTileAsset_e5593d
 questRewardTile_cc6d33
 rewardHighlight_cc6d33
 borderOverlay_cc6d33
@@ -1013,8 +1015,6 @@ questRewardTileAssetStatic_cc6d33
 questRewardTileDetailsLearnMore_cc6d33
 hideLearnMore_cc6d33
 shine_cc6d33
-nitroRewardTileAssetContainer_cc6d33
-nitroRewardTileAsset_cc6d33
 nitroUpsellContainer_f03ca8
 nitroWheel_f03ca8
 nitroText_f03ca8
