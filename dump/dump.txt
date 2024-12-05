@@ -696,6 +696,7 @@ ripple_d6cb89
 reducedMotion_d6cb89
 barBase_cf58b5
 barButtonBase_cf58b5
+barButtonAlt_cf58b5
 barButtonIcon_cf58b5
 barWithAppLauncherButton_cf58b5
 barWithAppsDMsUI_cf58b5
@@ -716,7 +717,6 @@ jumpToPresentSpinner_cf58b5
 jumpToPresentSpinnerItem_cf58b5
 barButtonMain_cf58b5
 span_cf58b5
-barButtonAlt_cf58b5
 loadingMore_cf58b5
 hasMore_cf58b5
 messageGroupBlocked_cf58b5
@@ -999,6 +999,10 @@ tooltip_d5cb59
 tooltipContainer_d5cb59
 noTooltip_d5cb59
 unselectable_d5cb59
+icon_ad923e
+emoji_ad923e
+textRuler_ad923e
+questsIcon_ad923e
 container_d808b0
 muted_d808b0
 avatar_d808b0
@@ -1320,10 +1324,6 @@ imgWrapper_ac01d6
 imgUnderlay_ac01d6
 assetTile_ac01d6
 ctaButton_ac01d6
-icon_ad923e
-emoji_ad923e
-textRuler_ad923e
-questsIcon_ad923e
 member_a31c43
 memberInner_a31c43
 offline_a31c43
@@ -1388,6 +1388,7 @@ iconContainer_e33a4d
 icon_e33a4d
 textContainer_e33a4d
 button_e33a4d
+number_e33a4d
 infoGroup_d34773
 container_b01a4f
 confirmationHeader_b01a4f
@@ -2511,6 +2512,7 @@ stickersNavItem_af5dbb
 stickersUnseenBadge_af5dbb
 soundboardContainer_af5dbb
 soundboardHeader_af5dbb
+soundmojiLabelContainer_af5dbb
 container_ccd3df
 hidden_ccd3df
 stickerIconOffset_ccd3df
@@ -2579,6 +2581,9 @@ channelTextArea_bdf0de
 highlighted_bdf0de
 focusRing_bdf0de
 scrollableContainer_bdf0de
+sansAttachButton_bdf0de
+button_bdf0de
+buttons_bdf0de
 themedBackground_bdf0de
 sticker_bdf0de
 disabledButtonWrapper_bdf0de
@@ -2588,7 +2593,6 @@ channelTextAreaDisabled_bdf0de
 hasStackedBar_bdf0de
 inner_bdf0de
 innerDisabled_bdf0de
-sansAttachButton_bdf0de
 sansAttachButtonCreateThread_bdf0de
 sansAttachButtonCreatePost_bdf0de
 sansAttachButtonUserProfileReply_bdf0de
@@ -2603,9 +2607,7 @@ textAreaForUserProfile_bdf0de
 textAreaForOverlayInlineReply_bdf0de
 textAreaCustomGift_bdf0de
 textAreaDisabled_bdf0de
-buttons_bdf0de
 buttonContainer_bdf0de
-button_bdf0de
 stickerIcon_bdf0de
 stickerButton_bdf0de
 stickerButtonWithNotification_bdf0de
@@ -2632,6 +2634,12 @@ closeIconContainer_ef287f
 closeIcon_ef287f
 closeButton_cb4d21
 closeIcon_cb4d21
+fontScaling_f60904
+eyebrow_f60904
+display-sm_f60904
+display-md_f60904
+display-lg_f60904
+code_f60904
 bar_f60904
 commandInfo_f60904
 name_f60904
@@ -2890,6 +2898,7 @@ hoisted_c8ce83
 outer_c8ce83
 inner_c8ce83
 clickable_c8ce83
+clamp_c8ce83
 ring_c8ce83
 statusText_c8ce83
 statusEmoji_c8ce83
@@ -3012,6 +3021,22 @@ container_b5cd55
 text_b5cd55
 bar_b5cd55
 progress_b5cd55
+container_c64476
+contentTitle_c64476
+reply_c64476
+additionalParticipantBadge_c64476
+openOnHover_c64476
+icon_c64476
+selected_c64476
+contentDescription_c64476
+infoSection_c64476
+userSection_c64476
+userName_c64476
+fontScaling_c64476
+facePile_c64476
+facePileItem_c64476
+additionalParticipantBadgeText_c64476
+thumbnail_c64476
 fontScaling_ec1c2d
 eyebrow_ec1c2d
 display-sm_ec1c2d
